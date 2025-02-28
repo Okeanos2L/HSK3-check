@@ -1,52 +1,602 @@
 [
     {
-        "chinese": "爱",
-        "pinyin": "ài",
-        "definition": "喜欢，关心"
+        "chinese": "31．高兴",
+        "pinyin": "61．妈妈",
+        "definition": "91．上 121．想"
     },
     {
-        "chinese": "八",
-        "pinyin": "bā",
-        "definition": "数字8"
+        "chinese": "32．个",
+        "pinyin": "62．吗",
+        "definition": "92．上午 122．小"
     },
     {
-        "chinese": "爸爸",
-        "pinyin": "bàba",
-        "definition": "父亲"
+        "chinese": "33．工作",
+        "pinyin": "63．买",
+        "definition": "93．少 123．小姐"
     },
     {
-        "chinese": "杯子",
-        "pinyin": "bēizi",
-        "definition": "装水的器具"
+        "chinese": "34．狗",
+        "pinyin": "64．猫",
+        "definition": "94．十 124．些"
     },
     {
-        "chinese": "北京",
-        "pinyin": "Běijīng",
-        "definition": "中国的首都"
+        "chinese": "35．汉语",
+        "pinyin": "65．没",
+        "definition": "95．什么 125．写"
     },
     {
-        "chinese": "本",
-        "pinyin": "běn",
-        "definition": "书籍的量词"
+        "chinese": "36．好",
+        "pinyin": "66．没关系",
+        "definition": "96．时候 126．谢谢"
     },
     {
-        "chinese": "不",
-        "pinyin": "bù",
-        "definition": "否定词"
+        "chinese": "37．喝",
+        "pinyin": "67．米饭",
+        "definition": "97．是 127．星期"
     },
     {
-        "chinese": "不客气",
-        "pinyin": "bú kèqi",
-        "definition": "表示不用谢"
+        "chinese": "38．和",
+        "pinyin": "68．名字",
+        "definition": "98．书 128．学生"
     },
     {
-        "chinese": "菜",
-        "pinyin": "cài",
-        "definition": "食物"
+        "chinese": "39．很",
+        "pinyin": "69．明天",
+        "definition": "99．谁 129．学习"
     },
     {
-        "chinese": "茶",
-        "pinyin": "chá",
-        "definition": "一种饮品"
+        "chinese": "40．后面",
+        "pinyin": "70．哪（哪儿）",
+        "definition": "100．水 130．学校"
+    },
+    {
+        "chinese": "41．回",
+        "pinyin": "71．那（那儿）",
+        "definition": "101．水果 131．一"
+    },
+    {
+        "chinese": "42．会",
+        "pinyin": "72．呢",
+        "definition": "102．睡觉 132．衣服"
+    },
+    {
+        "chinese": "43．火车站",
+        "pinyin": "73．能",
+        "definition": "103．说话 133．医生"
+    },
+    {
+        "chinese": "44．几",
+        "pinyin": "74．你",
+        "definition": "104．四 134．医院"
+    },
+    {
+        "chinese": "45．家",
+        "pinyin": "75．年",
+        "definition": "105．岁 135．椅子"
+    },
+    {
+        "chinese": "46．叫",
+        "pinyin": "76．女儿",
+        "definition": "106．他 136．有"
+    },
+    {
+        "chinese": "47．她",
+        "pinyin": "77．朋友",
+        "definition": "107．太 137．月"
+    },
+    {
+        "chinese": "48．今天",
+        "pinyin": "78．漂亮",
+        "definition": "108．天气 138．再见"
+    },
+    {
+        "chinese": "49．九",
+        "pinyin": "79．苹果",
+        "definition": "109．听 139．在"
+    },
+    {
+        "chinese": "50．开",
+        "pinyin": "80．七",
+        "definition": "110．同学 140．怎么"
+    },
+    {
+        "chinese": "51．看",
+        "pinyin": "81．前面",
+        "definition": "111．喂 141．怎么样"
+    },
+    {
+        "chinese": "52．看见",
+        "pinyin": "82．钱",
+        "definition": "112．我 142．这（这儿）"
+    },
+    {
+        "chinese": "53．块",
+        "pinyin": "83．请",
+        "definition": "113．我们 143．中国"
+    },
+    {
+        "chinese": "54．来",
+        "pinyin": "84．去",
+        "definition": "114．五 144．中午"
+    },
+    {
+        "chinese": "55．老师",
+        "pinyin": "85．热",
+        "definition": "115．喜欢 145．住"
+    },
+    {
+        "chinese": "56．冷",
+        "pinyin": "86．人",
+        "definition": "116．下 146．桌子"
+    },
+    {
+        "chinese": "57．里",
+        "pinyin": "87．认识",
+        "definition": "117．下午 147．字"
+    },
+    {
+        "chinese": "58．了",
+        "pinyin": "88．日",
+        "definition": "118．下雨 148．昨天"
+    },
+    {
+        "chinese": "59．零",
+        "pinyin": "89．三",
+        "definition": "119．先生 149．坐"
+    },
+    {
+        "chinese": "60．六",
+        "pinyin": "90．商店",
+        "definition": "120．现在 150．做"
+    },
+    {
+        "chinese": "181．告诉",
+        "pinyin": "211．可以",
+        "definition": "241．生病 271．眼睛"
+    },
+    {
+        "chinese": "182．哥哥",
+        "pinyin": "212．课",
+        "definition": "242．生日 272．羊肉"
+    },
+    {
+        "chinese": "183．给",
+        "pinyin": "213．快",
+        "definition": "243．时间 273．药"
+    },
+    {
+        "chinese": "184．公共汽车",
+        "pinyin": "214．快乐",
+        "definition": "244．事情 274．要"
+    },
+    {
+        "chinese": "185．公斤",
+        "pinyin": "215．累",
+        "definition": "245．手表 275．也"
+    },
+    {
+        "chinese": "186．公司",
+        "pinyin": "216．离",
+        "definition": "246．手机 276．一起"
+    },
+    {
+        "chinese": "187．贵",
+        "pinyin": "217．两",
+        "definition": "247．送 277．已经"
+    },
+    {
+        "chinese": "188．过",
+        "pinyin": "218．路",
+        "definition": "248．所以 278．意思"
+    },
+    {
+        "chinese": "189．孩子",
+        "pinyin": "219．旅游",
+        "definition": "249．它 279．因为"
+    },
+    {
+        "chinese": "190．好吃",
+        "pinyin": "220．卖",
+        "definition": "250．踢足球 280．阴"
+    },
+    {
+        "chinese": "191．号",
+        "pinyin": "221．慢",
+        "definition": "251．题 281．游泳"
+    },
+    {
+        "chinese": "192．黑",
+        "pinyin": "222．忙",
+        "definition": "252．跳舞 282．右边"
+    },
+    {
+        "chinese": "193．红",
+        "pinyin": "223．每",
+        "definition": "253．外 283．鱼"
+    },
+    {
+        "chinese": "194．欢迎",
+        "pinyin": "224．妹妹",
+        "definition": "254．完 284．元"
+    },
+    {
+        "chinese": "195．还",
+        "pinyin": "225．门",
+        "definition": "255．玩 285．远"
+    },
+    {
+        "chinese": "196．回答",
+        "pinyin": "226．男人",
+        "definition": "256．晚上 286．运动"
+    },
+    {
+        "chinese": "197．机场",
+        "pinyin": "227．您",
+        "definition": "257．为什么 287．再"
+    },
+    {
+        "chinese": "198．鸡蛋",
+        "pinyin": "228．牛奶",
+        "definition": "258．问 288．早上"
+    },
+    {
+        "chinese": "199．件",
+        "pinyin": "229．女人",
+        "definition": "259．问题 289．张"
+    },
+    {
+        "chinese": "200．教室",
+        "pinyin": "230．旁边",
+        "definition": "260．西瓜 290．丈夫"
+    },
+    {
+        "chinese": "201．姐姐",
+        "pinyin": "231．跑步",
+        "definition": "261．希望 291．找"
+    },
+    {
+        "chinese": "202．介绍",
+        "pinyin": "232．票",
+        "definition": "262．洗 292．真"
+    },
+    {
+        "chinese": "203．近",
+        "pinyin": "233．妻子",
+        "definition": "263．向 293．正在"
+    },
+    {
+        "chinese": "204．进",
+        "pinyin": "234．起床",
+        "definition": "264．小时 294．知道"
+    },
+    {
+        "chinese": "205．就",
+        "pinyin": "235．千",
+        "definition": "265．笑 295．准备"
+    },
+    {
+        "chinese": "206．觉得",
+        "pinyin": "236．晴",
+        "definition": "266．新 296．着"
+    },
+    {
+        "chinese": "207．咖啡",
+        "pinyin": "237．去年",
+        "definition": "267．姓 297．自行车"
+    },
+    {
+        "chinese": "208．开始",
+        "pinyin": "238．让",
+        "definition": "268．休息 298．走"
+    },
+    {
+        "chinese": "209．考试",
+        "pinyin": "239．上班",
+        "definition": "269．雪 299．最"
+    },
+    {
+        "chinese": "210．可能",
+        "pinyin": "240．身体",
+        "definition": "270．颜色 300．左边"
+    },
+    {
+        "chinese": "331．层",
+        "pinyin": "361．动物",
+        "definition": "391．国家 421．教"
+    },
+    {
+        "chinese": "332．差",
+        "pinyin": "362．短",
+        "definition": "392．果汁 422．接"
+    },
+    {
+        "chinese": "333．长",
+        "pinyin": "363．段",
+        "definition": "393．过去 423．街道"
+    },
+    {
+        "chinese": "334．超市",
+        "pinyin": "364．锻炼",
+        "definition": "394．害怕 424．节目"
+    },
+    {
+        "chinese": "335．衬衫",
+        "pinyin": "365．多么",
+        "definition": "395．河 425．节日"
+    },
+    {
+        "chinese": "336．成绩",
+        "pinyin": "366．饿",
+        "definition": "396．黑板 426．结婚"
+    },
+    {
+        "chinese": "337．城市",
+        "pinyin": "367．而且",
+        "definition": "397．护照 427．结束"
+    },
+    {
+        "chinese": "338．迟到",
+        "pinyin": "368．耳朵",
+        "definition": "398．花 428．解决"
+    },
+    {
+        "chinese": "339．出现",
+        "pinyin": "369．发烧",
+        "definition": "399．花园 429．借"
+    },
+    {
+        "chinese": "340．除了",
+        "pinyin": "370．发现",
+        "definition": "400．画 430．经常"
+    },
+    {
+        "chinese": "341．厨房",
+        "pinyin": "371．方便",
+        "definition": "401．坏 431．经过"
+    },
+    {
+        "chinese": "342．春",
+        "pinyin": "372．放",
+        "definition": "402．还 432．经理"
+    },
+    {
+        "chinese": "343．词语",
+        "pinyin": "373．放心",
+        "definition": "403．还是 433．久"
+    },
+    {
+        "chinese": "344．聪明",
+        "pinyin": "374．分",
+        "definition": "404．环境 434．旧"
+    },
+    {
+        "chinese": "345．打扫",
+        "pinyin": "375．附近",
+        "definition": "405．换 435．举行"
+    },
+    {
+        "chinese": "346．打算",
+        "pinyin": "376．复习",
+        "definition": "406．黄 436．句子"
+    },
+    {
+        "chinese": "347．带",
+        "pinyin": "377．干净",
+        "definition": "407．会议 437．决定"
+    },
+    {
+        "chinese": "348．担心",
+        "pinyin": "378．敢",
+        "definition": "408．或者 438．可爱"
+    },
+    {
+        "chinese": "349．蛋糕",
+        "pinyin": "379．感冒",
+        "definition": "409．机会 439．渴"
+    },
+    {
+        "chinese": "350．当然",
+        "pinyin": "380．刚才",
+        "definition": "410．极 440．刻"
+    },
+    {
+        "chinese": "351．灯",
+        "pinyin": "381．根据",
+        "definition": "411．几乎 441．客人"
+    },
+    {
+        "chinese": "352．低",
+        "pinyin": "382．跟",
+        "definition": "412．记得 442．空调"
+    },
+    {
+        "chinese": "353．地",
+        "pinyin": "383．更",
+        "definition": "413．季节 443．口"
+    },
+    {
+        "chinese": "354．地方",
+        "pinyin": "384．公园",
+        "definition": "414．检查 444．哭"
+    },
+    {
+        "chinese": "355．地铁",
+        "pinyin": "385．故事",
+        "definition": "415．简单 445．裤子"
+    },
+    {
+        "chinese": "356．地图",
+        "pinyin": "386．刮风",
+        "definition": "416．见面 446．筷子"
+    },
+    {
+        "chinese": "357．电梯",
+        "pinyin": "387．关",
+        "definition": "417．健康 447．蓝"
+    },
+    {
+        "chinese": "358．电子邮件",
+        "pinyin": "388．关系",
+        "definition": "418．讲 448．老"
+    },
+    {
+        "chinese": "359．东",
+        "pinyin": "389．关心",
+        "definition": "419．角 449．离开"
+    },
+    {
+        "chinese": "360．冬",
+        "pinyin": "390．关于",
+        "definition": "420．脚 450．礼物"
+    },
+    {
+        "chinese": "481．普通话",
+        "pinyin": "511．虽然",
+        "definition": "541．相信 571．影响"
+    },
+    {
+        "chinese": "482．其实",
+        "pinyin": "512．太阳",
+        "definition": "542．香蕉 572．用"
+    },
+    {
+        "chinese": "483．其他",
+        "pinyin": "513．糖",
+        "definition": "543．像 573．游戏"
+    },
+    {
+        "chinese": "484．奇怪",
+        "pinyin": "514．特别",
+        "definition": "544．小心 574．有名"
+    },
+    {
+        "chinese": "485．骑",
+        "pinyin": "515．疼",
+        "definition": "545．校长 575．又"
+    },
+    {
+        "chinese": "486．铅笔",
+        "pinyin": "516．提高",
+        "definition": "546．鞋 576．遇到"
+    },
+    {
+        "chinese": "487．清楚",
+        "pinyin": "517．体育",
+        "definition": "547．新闻 577．愿意"
+    },
+    {
+        "chinese": "488．秋",
+        "pinyin": "518．甜",
+        "definition": "548．新鲜 578．月亮"
+    },
+    {
+        "chinese": "489．裙子",
+        "pinyin": "519．条",
+        "definition": "549．信 579．越"
+    },
+    {
+        "chinese": "490．然后",
+        "pinyin": "520．同事",
+        "definition": "550．兴趣 580．云"
+    },
+    {
+        "chinese": "491．热情",
+        "pinyin": "521．同意",
+        "definition": "551．行李箱 581．站"
+    },
+    {
+        "chinese": "492．认为",
+        "pinyin": "522．头发",
+        "definition": "552．熊猫 582．照顾"
+    },
+    {
+        "chinese": "493．认真",
+        "pinyin": "523．突然",
+        "definition": "553．需要 583．照片"
+    },
+    {
+        "chinese": "494．容易",
+        "pinyin": "524．图书馆",
+        "definition": "554．选择 584．照相机"
+    },
+    {
+        "chinese": "495．如果",
+        "pinyin": "525．腿",
+        "definition": "555．眼镜 585．只"
+    },
+    {
+        "chinese": "496．伞",
+        "pinyin": "526．完成",
+        "definition": "556．要求 586．中间"
+    },
+    {
+        "chinese": "497．上网",
+        "pinyin": "527．碗",
+        "definition": "557．爷爷 587．终于"
+    },
+    {
+        "chinese": "498．生气",
+        "pinyin": "528．万",
+        "definition": "558．一般 588．种"
+    },
+    {
+        "chinese": "499．声音",
+        "pinyin": "529．忘记",
+        "definition": "559．一边 589．重要"
+    },
+    {
+        "chinese": "500．使",
+        "pinyin": "530．为",
+        "definition": "560．一定 590．周末"
+    },
+    {
+        "chinese": "501．世界",
+        "pinyin": "531．为了",
+        "definition": "561．一共 591．主要"
+    },
+    {
+        "chinese": "502．瘦",
+        "pinyin": "532．位",
+        "definition": "562．一会儿 592．注意"
+    },
+    {
+        "chinese": "503．叔叔",
+        "pinyin": "533．文化",
+        "definition": "563．一样 593．祝"
+    },
+    {
+        "chinese": "504．舒服",
+        "pinyin": "534．西",
+        "definition": "564．一直 594．着急"
+    },
+    {
+        "chinese": "505．树",
+        "pinyin": "535．习惯",
+        "definition": "565．以后 595．字典"
+    },
+    {
+        "chinese": "506．数学",
+        "pinyin": "536．洗手间",
+        "definition": "566．以前 596．自己"
+    },
+    {
+        "chinese": "507．刷牙",
+        "pinyin": "537．洗澡",
+        "definition": "567．以为 597．总是"
+    },
+    {
+        "chinese": "508．双",
+        "pinyin": "538．夏",
+        "definition": "568．音乐 598．最近"
+    },
+    {
+        "chinese": "509．水平",
+        "pinyin": "539．先",
+        "definition": "569．银行 599．作业"
+    },
+    {
+        "chinese": "510．司机",
+        "pinyin": "540．相同",
+        "definition": "570．应该 600．作用"
     }
 ]
