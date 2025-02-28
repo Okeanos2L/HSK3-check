@@ -51,6 +51,13 @@
             border-top: 1px solid #ddd;
             padding-top: 10px;
         }
+        .audio-button {
+            background-color: transparent;
+            border: none;
+            cursor: pointer;
+            font-size: 20px;
+            margin-left: 5px;
+        }
         /* 响应式设计 */
         @media (max-width: 600px) {
             body {
@@ -69,13 +76,17 @@
         <div id="word-display">点击“开始随机抽查”以显示词汇</div>
         <div class="buttons">
             <button id="start-btn">开始随机抽查 - Start Random</button>
-            <button id="pause-btn" disabled>暂停 - Pause</button>
+            <button id="pause-btn" disabled>暂停 - Pause to select </button>
             <button id="check-btn" disabled>查看词汇意思 - Check</button>
-            <button id="add-wrong-btn" disabled>添加到错题本</button>
-            <button id="view-wrong-btn">查看错题本</button>
+            <button id="add-wrong-btn" disabled>添加到错题 - Add to the word book</button>
+            <button id="view-wrong-btn">查看错题本 - Check the word book</button>
         </div>
         <div id="word-info">
-            <p><strong>拼音:</strong> <span id="word-pinyin"></span></p>
+            <p>
+                <strong>拼音:</strong> 
+                <span id="word-pinyin"></span>
+                <button class="audio-button" id="speak-btn">🔊</button>
+            </p>
             <p><strong>词类:</strong> <span id="word-type"></span></p>
             <p><strong>法语翻译:</strong> <span id="word-french"></span></p>
             <p><strong>例句:</strong> <span id="word-example"></span></p>
@@ -94,6 +105,7 @@
         const checkBtn = document.getElementById('check-btn');
         const addWrongBtn = document.getElementById('add-wrong-btn');
         const viewWrongBtn = document.getElementById('view-wrong-btn');
+        const speakBtn = document.getElementById('speak-btn');
         const wordInfo = document.getElementById('word-info');
         const wordPinyin = document.getElementById('word-pinyin');
         const wordType = document.getElementById('word-type');
@@ -158,7 +170,6 @@
                 return;
             }
 
-            // 避免重复添加相同的错词
             if (!wrongWords.some(w => w.chinese === word.chinese)) {
                 wrongWords.push(word);
                 localStorage.setItem("wrongWords", JSON.stringify(wrongWords));
@@ -180,6 +191,14 @@
 
             alert("📚 错题本:\n\n" + wrongList);
         });
+
+        speakBtn.addEventListener('click', () => {
+            const word = words[currentIndex].chinese;
+            const utterance = new SpeechSynthesisUtterance(word);
+            utterance.lang = "zh-CN";
+            speechSynthesis.speak(utterance);
+        });
+
     </script>
 </body>
 </html>
