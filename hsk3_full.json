@@ -1,1 +1,52 @@
-[]
+[
+    {
+        "chinese": "爱",
+        "pinyin": "ài",
+        "definition": "喜欢，关心"
+    },
+    {
+        "chinese": "八",
+        "pinyin": "bā",
+        "definition": "数字8"
+    },
+    {
+        "chinese": "爸爸",
+        "pinyin": "bàba",
+        "definition": "父亲"
+    },
+    {
+        "chinese": "杯子",
+        "pinyin": "bēizi",
+        "definition": "装水的器具"
+    },
+    {
+        "chinese": "北京",
+        "pinyin": "Běijīng",
+        "definition": "中国的首都"
+    },
+    {
+        "chinese": "本",
+        "pinyin": "běn",
+        "definition": "书籍的量词"
+    },
+    {
+        "chinese": "不",
+        "pinyin": "bù",
+        "definition": "否定词"
+    },
+    {
+        "chinese": "不客气",
+        "pinyin": "bú kèqi",
+        "definition": "表示不用谢"
+    },
+    {
+        "chinese": "菜",
+        "pinyin": "cài",
+        "definition": "食物"
+    },
+    {
+        "chinese": "茶",
+        "pinyin": "chá",
+        "definition": "一种饮品"
+    }
+]
