@@ -1,0 +1,3614 @@
+[
+    {
+        "chinese": "八",
+        "pinyin": "bā",
+        "word_type": "num.",
+        "french": "huit (chiffre)",
+        "example": "他儿子今年～岁了。"
+    },
+    {
+        "chinese": "爸爸",
+        "pinyin": "bàba",
+        "word_type": "n.",
+        "french": "papa",
+        "example": "我～是医生。"
+    },
+    {
+        "chinese": "杯子",
+        "pinyin": "bēizi",
+        "word_type": "n.",
+        "french": "tasse;verre",
+        "example": "～里有茶。"
+    },
+    {
+        "chinese": "北京",
+        "pinyin": "Běijīng",
+        "word_type": "n.",
+        "french": "Beijing, capitale chinoise",
+        "example": "我住在～。"
+    },
+    {
+        "chinese": "本",
+        "pinyin": "běn",
+        "word_type": "s.n.",
+        "french": "桌子上有一～书。",
+        "example": ""
+    },
+    {
+        "chinese": "不客气",
+        "pinyin": "bú",
+        "word_type": "kèqi",
+        "french": "de rien",
+        "example": "甲：谢谢你！乙：～。"
+    },
+    {
+        "chinese": "不",
+        "pinyin": "bù",
+        "word_type": "adv.",
+        "french": "marque la négation, sauf pour le verbe avoir",
+        "example": "我～是学生。"
+    },
+    {
+        "chinese": "茶",
+        "pinyin": "chá",
+        "word_type": "n.",
+        "french": "thé (boisson ou feuilles de thé)",
+        "example": "请喝杯～吧。"
+    },
+    {
+        "chinese": "吃",
+        "pinyin": "chī",
+        "word_type": "v.",
+        "french": "manger",
+        "example": "请～点儿米饭。"
+    },
+    {
+        "chinese": "出租车",
+        "pinyin": "chūzūchē",
+        "word_type": "n.",
+        "french": "taxi",
+        "example": "我们坐～去火车站。"
+    },
+    {
+        "chinese": "打电话",
+        "pinyin": "dǎ",
+        "word_type": "diànhuà",
+        "french": "téléphoner ; donner un coup de fil",
+        "example": "他在～呢。"
+    },
+    {
+        "chinese": "大",
+        "pinyin": "dà",
+        "word_type": "adj.",
+        "french": "gros,se ; grand,e ; immense",
+        "example": "这个苹果很～。"
+    },
+    {
+        "chinese": "的",
+        "pinyin": "de",
+        "word_type": "p.s.",
+        "french": "我是坐飞机来中国～。",
+        "example": ""
+    },
+    {
+        "chinese": "电脑",
+        "pinyin": "diànnǎo",
+        "word_type": "n.",
+        "french": "ordinateur",
+        "example": "我买了个～。"
+    },
+    {
+        "chinese": "电视",
+        "pinyin": "diànshì",
+        "word_type": "n.",
+        "french": "télévision",
+        "example": "妈妈在看～。"
+    },
+    {
+        "chinese": "电影",
+        "pinyin": "diànyǐng",
+        "word_type": "n.",
+        "french": "film",
+        "example": "我喜欢看～。"
+    },
+    {
+        "chinese": "东西",
+        "pinyin": "dōngxi",
+        "word_type": "n.",
+        "french": "chose ; objet ; affaire",
+        "example": "我在商店买了很多～。"
+    },
+    {
+        "chinese": "都",
+        "pinyin": "dōu",
+        "word_type": "adv.",
+        "french": "même",
+        "example": "我～快吃完了。"
+    },
+    {
+        "chinese": "对不起",
+        "pinyin": "duìbuqǐ",
+        "word_type": "désolé",
+        "french": "; pardon",
+        "example": "甲：～。乙：没关系。"
+    },
+    {
+        "chinese": "多",
+        "pinyin": "duō",
+        "word_type": "adj.",
+        "french": "nombreux,se",
+        "example": "这里的人很～。"
+    },
+    {
+        "chinese": "多少",
+        "pinyin": "duōshao",
+        "word_type": "pron.",
+        "french": "你们学校有～学生？",
+        "example": ""
+    },
+    {
+        "chinese": "儿子",
+        "pinyin": "érzi",
+        "word_type": "n.",
+        "french": "fils",
+        "example": "我～三岁了。"
+    },
+    {
+        "chinese": "二",
+        "pinyin": "èr",
+        "word_type": "num.",
+        "french": "deux",
+        "example": "现在十～点了。"
+    },
+    {
+        "chinese": "饭店",
+        "pinyin": "fàndiàn",
+        "word_type": "n.",
+        "french": "restaurant ; hôtel",
+        "example": "中午我们去～吃吧。"
+    },
+    {
+        "chinese": "飞机",
+        "pinyin": "fēijī",
+        "word_type": "n.",
+        "french": "avion",
+        "example": "我坐～去北京。"
+    },
+    {
+        "chinese": "分钟",
+        "pinyin": "fēnzhōng",
+        "word_type": "n.",
+        "french": "minute",
+        "example": "我想休息几～。"
+    },
+    {
+        "chinese": "高兴",
+        "pinyin": "gāoxìng",
+        "word_type": "adj.",
+        "french": "content,e",
+        "example": "今天我很～。"
+    },
+    {
+        "chinese": "个",
+        "pinyin": "gè",
+        "word_type": "s.n.",
+        "french": "spécificatif le plus employé",
+        "example": "我是一～学生。"
+    },
+    {
+        "chinese": "汉语",
+        "pinyin": "Hànyǔ",
+        "word_type": "n.",
+        "french": "chinois ; langue chinoise",
+        "example": "他在学习～。"
+    },
+    {
+        "chinese": "喝",
+        "pinyin": "hē",
+        "word_type": "v.",
+        "french": "boire",
+        "example": "我想～水。"
+    },
+    {
+        "chinese": "很",
+        "pinyin": "hěn",
+        "word_type": "adv.",
+        "french": "très",
+        "example": "李小姐～漂亮。"
+    },
+    {
+        "chinese": "会",
+        "pinyin": "huì",
+        "word_type": "v.",
+        "french": "utilisé derrère un verbe pour un résultat",
+        "example": "我学～了汉语。"
+    },
+    {
+        "chinese": "家",
+        "pinyin": "jiā",
+        "word_type": "spécificatif",
+        "french": "employé pour une famille ou une",
+        "example": ""
+    },
+    {
+        "chinese": "叫",
+        "pinyin": "jiào",
+        "word_type": "v.",
+        "french": "appeler ; s'appeler",
+        "example": "我的名字～李明。"
+    },
+    {
+        "chinese": "今天",
+        "pinyin": "jīntiān",
+        "word_type": "n.",
+        "french": "aujourd’hui",
+        "example": "我～去北京。"
+    },
+    {
+        "chinese": "九",
+        "pinyin": "jiǔ",
+        "word_type": "num.",
+        "french": "neuf (chiffre)",
+        "example": "今天是八月～日"
+    },
+    {
+        "chinese": "看见",
+        "pinyin": "kànjiàn",
+        "word_type": "v.",
+        "french": "voir",
+        "example": "我没～他。"
+    },
+    {
+        "chinese": "块",
+        "pinyin": "kuài",
+        "word_type": "s.n.",
+        "french": "morceau ; pièce",
+        "example": "来吃～西瓜吧。"
+    },
+    {
+        "chinese": "老师",
+        "pinyin": "lǎoshī",
+        "word_type": "n.",
+        "french": "enseignant,e ; professeur",
+        "example": "他就是我们的汉语～。"
+    },
+    {
+        "chinese": "冷",
+        "pinyin": "lěng",
+        "word_type": "adj.",
+        "french": "froid,e",
+        "example": "今天太～了。"
+    },
+    {
+        "chinese": "里",
+        "pinyin": "lǐ",
+        "word_type": "n.",
+        "french": "dans ; à l’intérieur (locatif)",
+        "example": "我们都在学校～。"
+    },
+    {
+        "chinese": "零",
+        "pinyin": "líng",
+        "word_type": "num.",
+        "french": "zéro",
+        "example": "今年是二～一二年。"
+    },
+    {
+        "chinese": "六",
+        "pinyin": "liù",
+        "word_type": "num.",
+        "french": "six",
+        "example": "桌子上有～个杯子。"
+    },
+    {
+        "chinese": "妈妈",
+        "pinyin": "māma",
+        "word_type": "n.",
+        "french": "maman",
+        "example": "我～不在家。"
+    },
+    {
+        "chinese": "吗",
+        "pinyin": "ma",
+        "word_type": "p.t.",
+        "french": "你是中国人～？",
+        "example": ""
+    },
+    {
+        "chinese": "买",
+        "pinyin": "mǎi",
+        "word_type": "v.",
+        "french": "acheter",
+        "example": "我～了一些苹果。"
+    },
+    {
+        "chinese": "没关系",
+        "pinyin": "méi",
+        "word_type": "guānxi",
+        "french": "甲：对不起！乙：～。",
+        "example": ""
+    },
+    {
+        "chinese": "没有",
+        "pinyin": "méiyǒu",
+        "word_type": "v.",
+        "french": "ne pas avoir ; moins de",
+        "example": ""
+    },
+    {
+        "chinese": "米饭",
+        "pinyin": "mǐfàn",
+        "word_type": "n.",
+        "french": "riz",
+        "example": "我爱吃～。"
+    },
+    {
+        "chinese": "明天",
+        "pinyin": "míngtiān",
+        "word_type": "n.",
+        "french": "demain",
+        "example": "今天星期日，～是星期一。"
+    },
+    {
+        "chinese": "名字",
+        "pinyin": "míngzi",
+        "word_type": "n.",
+        "french": "nom+prénom ; nom de choses",
+        "example": "我的～叫李明。"
+    },
+    {
+        "chinese": "哪",
+        "pinyin": "nǎ",
+        "word_type": "pron.",
+        "french": "quel ; lequel (suivi d'un spécificatif)",
+        "example": "～个杯子是你的？"
+    },
+    {
+        "chinese": "哪儿",
+        "pinyin": "nǎr",
+        "word_type": "pron.",
+        "french": "où",
+        "example": "你家在～？"
+    },
+    {
+        "chinese": "能",
+        "pinyin": "néng",
+        "word_type": "v.a.",
+        "french": "pouvoir",
+        "example": "我～坐在这儿吗？"
+    },
+    {
+        "chinese": "你",
+        "pinyin": "nǐ",
+        "word_type": "pron.",
+        "french": "tu ; te",
+        "example": "～认识这个人吗？"
+    },
+    {
+        "chinese": "年",
+        "pinyin": "nián",
+        "word_type": "n.",
+        "french": "année",
+        "example": "我在中国住了三～。"
+    },
+    {
+        "chinese": "朋友",
+        "pinyin": "péngyou",
+        "word_type": "n.",
+        "french": "ami,e",
+        "example": "他是我的好～。"
+    },
+    {
+        "chinese": "漂亮",
+        "pinyin": "piàoliang",
+        "word_type": "adj.",
+        "french": "beau, belle",
+        "example": "你的衣服真～。"
+    },
+    {
+        "chinese": "苹果",
+        "pinyin": "píngguǒ",
+        "word_type": "n.",
+        "french": "pomme",
+        "example": "你想不想吃个～？"
+    },
+    {
+        "chinese": "七",
+        "pinyin": "qī",
+        "word_type": "num.",
+        "french": "sept",
+        "example": "一个星期有～天。"
+    },
+    {
+        "chinese": "钱",
+        "pinyin": "qián",
+        "word_type": "n.",
+        "french": "argent ; monnaie",
+        "example": "一个苹果三块～。"
+    },
+    {
+        "chinese": "前面",
+        "pinyin": "qiánmiàn",
+        "word_type": "n.",
+        "french": "devant (locatif)",
+        "example": "～那个人是我的同学。"
+    },
+    {
+        "chinese": "请",
+        "pinyin": "qǐng",
+        "word_type": "v.",
+        "french": "prier",
+        "example": "我去～老师帮忙。"
+    },
+    {
+        "chinese": "去",
+        "pinyin": "qù",
+        "word_type": "v.",
+        "french": "d'objet pour indiquer l'éloignement",
+        "example": "小猫跑到房间里～了。"
+    },
+    {
+        "chinese": "人",
+        "pinyin": "rén",
+        "word_type": "n.",
+        "french": "être humain ; personne ; peuple",
+        "example": "商店里有很多～。"
+    },
+    {
+        "chinese": "认识",
+        "pinyin": "rènshi",
+        "word_type": "v.",
+        "french": "～你很高兴。",
+        "example": ""
+    },
+    {
+        "chinese": "三",
+        "pinyin": "sān",
+        "word_type": "num.",
+        "french": "trois",
+        "example": "我有～本书。"
+    },
+    {
+        "chinese": "商店",
+        "pinyin": "shāngdiàn",
+        "word_type": "n.",
+        "french": "magasin ; boutique",
+        "example": "她去～买东西了。"
+    },
+    {
+        "chinese": "上午",
+        "pinyin": "shàngwǔ",
+        "word_type": "n.",
+        "french": "matin",
+        "example": "现在是～10点。"
+    },
+    {
+        "chinese": "谁",
+        "pinyin": "shéi",
+        "word_type": "pron.",
+        "french": "qui",
+        "example": "那个人是～？"
+    },
+    {
+        "chinese": "十",
+        "pinyin": "shí",
+        "word_type": "num.",
+        "french": "dix",
+        "example": "现在是～月。"
+    },
+    {
+        "chinese": "时候",
+        "pinyin": "shíhou",
+        "word_type": "n.",
+        "french": "temps ; à un certain moment ; période",
+        "example": "我回家的～，他在睡觉。"
+    },
+    {
+        "chinese": "书",
+        "pinyin": "shū",
+        "word_type": "n.",
+        "french": "livre",
+        "example": "我喜欢读～。"
+    },
+    {
+        "chinese": "水",
+        "pinyin": "shuǐ",
+        "word_type": "n.",
+        "french": "eau",
+        "example": "杯子里还有～吗？"
+    },
+    {
+        "chinese": "水果",
+        "pinyin": "shuǐguǒ",
+        "word_type": "n.",
+        "french": "fruit",
+        "example": "我想去商店买～。"
+    },
+    {
+        "chinese": "睡觉",
+        "pinyin": "shuìjiào",
+        "word_type": "v.",
+        "french": "dormir",
+        "example": "儿子在～呢。"
+    },
+    {
+        "chinese": "说",
+        "pinyin": "shuō",
+        "word_type": "v.",
+        "french": "parler (verbe transitif)",
+        "example": "你在～什么？"
+    },
+    {
+        "chinese": "说话",
+        "pinyin": "shuōhuà",
+        "word_type": "v.",
+        "french": "parler (verbe intransitif)",
+        "example": "他们在～。"
+    },
+    {
+        "chinese": "四",
+        "pinyin": "sì",
+        "word_type": "num.",
+        "french": "quatre",
+        "example": "我们～个人去看电影。"
+    },
+    {
+        "chinese": "岁",
+        "pinyin": "suì",
+        "word_type": "s.n.",
+        "french": "âge",
+        "example": "李医生今年40～。"
+    },
+    {
+        "chinese": "他",
+        "pinyin": "tā",
+        "word_type": "pron.",
+        "french": "il ; lui ; le",
+        "example": "～是我们的老师。"
+    },
+    {
+        "chinese": "她",
+        "pinyin": "tā",
+        "word_type": "pron.",
+        "french": "elle ; lui ; la",
+        "example": "我认识～的妈妈。"
+    },
+    {
+        "chinese": "天气",
+        "pinyin": "tiānqì",
+        "word_type": "n.",
+        "french": "temps météorologique ; climat",
+        "example": "今天的～非常好。"
+    },
+    {
+        "chinese": "同学",
+        "pinyin": "tóngxué",
+        "word_type": "n.",
+        "french": "camarade de classe",
+        "example": "～们，你们好！"
+    },
+    {
+        "chinese": "喂",
+        "pinyin": "wèi",
+        "word_type": "int.",
+        "french": "âllo",
+        "example": "～，李老师在吗？"
+    },
+    {
+        "chinese": "我",
+        "pinyin": "wǒ",
+        "word_type": "pron.",
+        "french": "je ; me ; moi",
+        "example": "～是一个学生。"
+    },
+    {
+        "chinese": "我们",
+        "pinyin": "wǒmen",
+        "word_type": "pron.",
+        "french": "nous",
+        "example": "～都是学生。"
+    },
+    {
+        "chinese": "五",
+        "pinyin": "wǔ",
+        "word_type": "num.",
+        "french": "cinq",
+        "example": "今天星期～。"
+    },
+    {
+        "chinese": "喜欢",
+        "pinyin": "xǐhuan",
+        "word_type": "v.",
+        "french": "aimer ; avoir le goût de ; adorer",
+        "example": "我～学汉语。"
+    },
+    {
+        "chinese": "下",
+        "pinyin": "xià",
+        "word_type": "n.",
+        "french": "prochain,e ; suivant,e",
+        "example": "我～个月去北京。"
+    },
+    {
+        "chinese": "下午",
+        "pinyin": "xiàwǔ",
+        "word_type": "n.",
+        "french": "après-midi",
+        "example": "我今天～不去学校了。"
+    },
+    {
+        "chinese": "下雨",
+        "pinyin": "xià",
+        "word_type": "yǔ",
+        "french": "v.",
+        "example": "pleuvoir  昨天～了。"
+    },
+    {
+        "chinese": "先生",
+        "pinyin": "xiānsheng",
+        "word_type": "n.",
+        "french": "monsieur",
+        "example": "你也认识王～？"
+    },
+    {
+        "chinese": "现在",
+        "pinyin": "xiànzài",
+        "word_type": "n.",
+        "french": "maintenant",
+        "example": "～是12点。"
+    },
+    {
+        "chinese": "想",
+        "pinyin": "xiǎng",
+        "word_type": "v.a.",
+        "french": "vouloir",
+        "example": "我～星期六去北京。"
+    },
+    {
+        "chinese": "小姐",
+        "pinyin": "xiǎojiě",
+        "word_type": "n.",
+        "french": "mademoiselle",
+        "example": "～，你叫什么名字？"
+    },
+    {
+        "chinese": "写",
+        "pinyin": "xiě",
+        "word_type": "v.",
+        "french": "écrire",
+        "example": "你～的字很漂亮。"
+    },
+    {
+        "chinese": "谢谢",
+        "pinyin": "xièxie",
+        "word_type": "v.",
+        "french": "merci ; remercier",
+        "example": "甲：～你。乙：不客气！"
+    },
+    {
+        "chinese": "星期",
+        "pinyin": "xīngqī",
+        "word_type": "n.",
+        "french": "semaine",
+        "example": "一个～有七天。"
+    },
+    {
+        "chinese": "学生",
+        "pinyin": "xuésheng",
+        "word_type": "n.",
+        "french": "élève",
+        "example": "我们学校里的～很多。"
+    },
+    {
+        "chinese": "学习",
+        "pinyin": "xuéxí",
+        "word_type": "v.",
+        "french": "apprendre",
+        "example": "你喜欢～汉语吗？"
+    },
+    {
+        "chinese": "学校",
+        "pinyin": "xuéxiào",
+        "word_type": "n.",
+        "french": "école",
+        "example": "我们～很大。"
+    },
+    {
+        "chinese": "一",
+        "pinyin": "yī",
+        "word_type": "employé",
+        "french": "entre deux verbes répétés pour",
+        "example": ""
+    },
+    {
+        "chinese": "一点儿",
+        "pinyin": "yìdiǎnr",
+        "word_type": "s.n.",
+        "french": "un peu de",
+        "example": "我只有～钱。"
+    },
+    {
+        "chinese": "衣服",
+        "pinyin": "yīfu",
+        "word_type": "n.",
+        "french": "vêtement",
+        "example": "我在商店买了很多～。"
+    },
+    {
+        "chinese": "医生",
+        "pinyin": "yīshēng",
+        "word_type": "n.",
+        "french": "médecin",
+        "example": "他是这个医院里的～。"
+    },
+    {
+        "chinese": "医院",
+        "pinyin": "yīyuàn",
+        "word_type": "n.",
+        "french": "hôpital",
+        "example": "这是一个大～。"
+    },
+    {
+        "chinese": "椅子",
+        "pinyin": "yǐzi",
+        "word_type": "n.",
+        "french": "chaise",
+        "example": "小狗在～下面呢。"
+    },
+    {
+        "chinese": "有",
+        "pinyin": "yǒu",
+        "word_type": "v.",
+        "french": "avoir",
+        "example": "我～一个女儿。"
+    },
+    {
+        "chinese": "月",
+        "pinyin": "yuè",
+        "word_type": "n.",
+        "french": "mois",
+        "example": "一年有12个～。"
+    },
+    {
+        "chinese": "再见",
+        "pinyin": "zàijiàn",
+        "word_type": "Au",
+        "french": "revoir",
+        "example": "妈妈，我去学校了，～。"
+    },
+    {
+        "chinese": "怎么",
+        "pinyin": "zěnme",
+        "word_type": "pron.",
+        "french": "Comment faire",
+        "example": "你～去北京？"
+    },
+    {
+        "chinese": "怎么样",
+        "pinyin": "zěnmeyàng",
+        "word_type": "pron.",
+        "french": "comment être",
+        "example": "我们去看电影，～？"
+    },
+    {
+        "chinese": "中国",
+        "pinyin": "Zhōngguó",
+        "word_type": "n.",
+        "french": "Chine",
+        "example": "我在～学汉语。"
+    },
+    {
+        "chinese": "中午",
+        "pinyin": "zhōngwǔ",
+        "word_type": "n.",
+        "french": "midi (zénith)",
+        "example": "我今天～去火车站。"
+    },
+    {
+        "chinese": "住",
+        "pinyin": "zhù",
+        "word_type": "v.",
+        "french": "habiter",
+        "example": "他在北京～了很多年。"
+    },
+    {
+        "chinese": "桌子",
+        "pinyin": "zhuōzi",
+        "word_type": "n.",
+        "french": "table",
+        "example": "电脑在～上。"
+    },
+    {
+        "chinese": "字",
+        "pinyin": "zì",
+        "word_type": "n.",
+        "french": "caractère chinois",
+        "example": "这个～你认识吗？"
+    },
+    {
+        "chinese": "昨天",
+        "pinyin": "zuótiān",
+        "word_type": "n.",
+        "french": "hier",
+        "example": "他～没去学校。"
+    },
+    {
+        "chinese": "做",
+        "pinyin": "zuò",
+        "word_type": "v.",
+        "french": "faire",
+        "example": "你是～什么工作的？"
+    },
+    {
+        "chinese": "吧",
+        "pinyin": "ba",
+        "word_type": "attendre",
+        "french": "la confirmation du propos",
+        "example": ""
+    },
+    {
+        "chinese": "白",
+        "pinyin": "bái",
+        "word_type": "adj.",
+        "french": "blanc,che",
+        "example": "我很爱穿那件～衣服。"
+    },
+    {
+        "chinese": "百",
+        "pinyin": "bǎi",
+        "word_type": "num.",
+        "french": "cent",
+        "example": "这个自行车五～多元。"
+    },
+    {
+        "chinese": "帮助",
+        "pinyin": "bāngzhù",
+        "word_type": "v.",
+        "french": "aider",
+        "example": "请～我找一家搬家公司，好吗？"
+    },
+    {
+        "chinese": "报纸",
+        "pinyin": "bàozhǐ",
+        "word_type": "n.",
+        "french": "journal papier",
+        "example": "我每天早上都要读～。"
+    },
+    {
+        "chinese": "比",
+        "pinyin": "bǐ",
+        "word_type": "prép.",
+        "french": "我的孩子～我高。",
+        "example": ""
+    },
+    {
+        "chinese": "别",
+        "pinyin": "bié",
+        "word_type": "adv.",
+        "french": "太晚了，～看电视了。",
+        "example": ""
+    },
+    {
+        "chinese": "长",
+        "pinyin": "cháng",
+        "word_type": "adj.",
+        "french": "long, gue",
+        "example": "姐姐的腿～，跑得快。"
+    },
+    {
+        "chinese": "唱歌",
+        "pinyin": "chànggē",
+        "word_type": "v.",
+        "french": "chanter (v.s.)",
+        "example": "我最爱～了，我给你们唱一个。"
+    },
+    {
+        "chinese": "出",
+        "pinyin": "chū",
+        "word_type": "v.",
+        "french": "sortir",
+        "example": "我已经走～火车站了。"
+    },
+    {
+        "chinese": "穿",
+        "pinyin": "chuān",
+        "word_type": "v.",
+        "french": "porter; mettre; revêtir",
+        "example": "天冷了，多～些衣服吧。"
+    },
+    {
+        "chinese": "次",
+        "pinyin": "cì",
+        "word_type": "s.n./",
+        "french": "s.v.",
+        "example": "nombre de fois  我去过一～北京。"
+    },
+    {
+        "chinese": "从",
+        "pinyin": "cóng",
+        "word_type": "prép.",
+        "french": "～我家到公司，开车要20分钟。",
+        "example": ""
+    },
+    {
+        "chinese": "错",
+        "pinyin": "cuò",
+        "word_type": "adj.",
+        "french": "incorrect,e",
+        "example": "对不起，我～了。"
+    },
+    {
+        "chinese": "打篮球",
+        "pinyin": "dǎ",
+        "word_type": "lánqiú",
+        "french": "jouer au basketball",
+        "example": "我每天下午都去～。"
+    },
+    {
+        "chinese": "大家",
+        "pinyin": "dàjiā",
+        "word_type": "pron.",
+        "french": "tout le monde ; tous",
+        "example": "请～不要等我了。"
+    },
+    {
+        "chinese": "到",
+        "pinyin": "dào",
+        "word_type": "v.",
+        "french": "arriver",
+        "example": "我早上9点～公司。"
+    },
+    {
+        "chinese": "得",
+        "pinyin": "de",
+        "word_type": "p.s.",
+        "french": "introduire le complément d'appréciation (de",
+        "example": "你走～太快了。"
+    },
+    {
+        "chinese": "等",
+        "pinyin": "děng",
+        "word_type": "v.",
+        "french": "attendre",
+        "example": "你还要再～我10分钟。"
+    },
+    {
+        "chinese": "弟弟",
+        "pinyin": "dìdi",
+        "word_type": "n.",
+        "french": "frère cadet",
+        "example": "在我们家，我最大，我下面还有两个～。"
+    },
+    {
+        "chinese": "懂",
+        "pinyin": "dǒng",
+        "word_type": "v.",
+        "french": "comprendre",
+        "example": "你的意思我～了。"
+    },
+    {
+        "chinese": "对",
+        "pinyin": "duì",
+        "word_type": "adj.",
+        "french": "correct,e",
+        "example": "你是～的，我错了。"
+    },
+    {
+        "chinese": "对",
+        "pinyin": "duì",
+        "word_type": "prép.",
+        "french": "vers ; à",
+        "example": "孩子～妈妈说：“妈妈，我爱你。”"
+    },
+    {
+        "chinese": "房间",
+        "pinyin": "fángjiān",
+        "word_type": "n.",
+        "french": "chambre",
+        "example": "我们两个人住一个～。"
+    },
+    {
+        "chinese": "非常",
+        "pinyin": "fēicháng",
+        "word_type": "adv.",
+        "french": "très",
+        "example": "奶奶～喜欢我们送的礼物。"
+    },
+    {
+        "chinese": "服务员",
+        "pinyin": "fúwùyuán",
+        "word_type": "n.",
+        "french": "serveur, se",
+        "example": "我在饭馆做～。"
+    },
+    {
+        "chinese": "高",
+        "pinyin": "gāo",
+        "word_type": "adj.",
+        "french": "haut,e",
+        "example": "我比爸爸还～。"
+    },
+    {
+        "chinese": "告诉",
+        "pinyin": "gàosu",
+        "word_type": "v.",
+        "french": "informer ; dire qch à qn",
+        "example": "你能～我学校怎么走吗？"
+    },
+    {
+        "chinese": "哥哥",
+        "pinyin": "gēge",
+        "word_type": "n.",
+        "french": "frère aîné",
+        "example": "我～比我大三岁。"
+    },
+    {
+        "chinese": "公共汽车",
+        "pinyin": "gōnggòngqìchē",
+        "word_type": "n.",
+        "french": "bus",
+        "example": "坐～去，要20分钟。"
+    },
+    {
+        "chinese": "公司",
+        "pinyin": "gōngsī",
+        "word_type": "n.",
+        "french": "entreprise",
+        "example": "我在一个～上班。"
+    },
+    {
+        "chinese": "狗",
+        "pinyin": "gǒu",
+        "word_type": "n.",
+        "french": "chien,ne",
+        "example": "女儿很喜欢小～。"
+    },
+    {
+        "chinese": "贵",
+        "pinyin": "guì",
+        "word_type": "adj.",
+        "french": "cher,ère",
+        "example": "这块手表很～。"
+    },
+    {
+        "chinese": "过",
+        "pinyin": "guo",
+        "word_type": "p.s.",
+        "french": "我没看～这本书。",
+        "example": ""
+    },
+    {
+        "chinese": "好吃",
+        "pinyin": "hǎochī",
+        "word_type": "bon,ne",
+        "french": "; délicieux,se",
+        "example": "您做的米饭真～。"
+    },
+    {
+        "chinese": "黑",
+        "pinyin": "hēi",
+        "word_type": "adj.",
+        "french": "noir,e",
+        "example": "我不喜欢～颜色的衣服。"
+    },
+    {
+        "chinese": "红",
+        "pinyin": "hóng",
+        "word_type": "adj.",
+        "french": "rouge",
+        "example": "我的自行车是～色的。"
+    },
+    {
+        "chinese": "欢迎",
+        "pinyin": "huānyíng",
+        "word_type": "v.",
+        "french": "bienvenue",
+        "example": "～你们来我们家。"
+    },
+    {
+        "chinese": "回答",
+        "pinyin": "huídá",
+        "word_type": "v.",
+        "french": "répondre",
+        "example": "我能～这个问题。"
+    },
+    {
+        "chinese": "火车站",
+        "pinyin": "huǒchēzhàn",
+        "word_type": "n.",
+        "french": "gare",
+        "example": "我下午3点去～。"
+    },
+    {
+        "chinese": "机场",
+        "pinyin": "jīchǎng",
+        "word_type": "n.",
+        "french": "aéroport",
+        "example": "我在～工作了三年了。"
+    },
+    {
+        "chinese": "鸡蛋",
+        "pinyin": "jīdàn",
+        "word_type": "n.",
+        "french": "œuf",
+        "example": "我每天早上都要吃个～。"
+    },
+    {
+        "chinese": "件",
+        "pinyin": "jiàn",
+        "word_type": "s.n.",
+        "french": "这～衣服颜色非常好看。",
+        "example": ""
+    },
+    {
+        "chinese": "教室",
+        "pinyin": "jiàoshì",
+        "word_type": "n.",
+        "french": "salle de classe",
+        "example": "请大家都到～去上课。"
+    },
+    {
+        "chinese": "姐姐",
+        "pinyin": "jiějie",
+        "word_type": "n.",
+        "french": "sœur aînée",
+        "example": "我有两个～。"
+    },
+    {
+        "chinese": "进",
+        "pinyin": "jìn",
+        "word_type": "v.",
+        "french": "entrer",
+        "example": "我马上要～机场了。"
+    },
+    {
+        "chinese": "近",
+        "pinyin": "jìn",
+        "word_type": "adj.",
+        "french": "proche",
+        "example": "我们家离公司很～。"
+    },
+    {
+        "chinese": "觉得",
+        "pinyin": "juéde",
+        "word_type": "v.",
+        "french": "estimer",
+        "example": "你～这本书怎么样？"
+    },
+    {
+        "chinese": "咖啡",
+        "pinyin": "kāfēi",
+        "word_type": "n.",
+        "french": "café",
+        "example": "您想喝～，还是茶？"
+    },
+    {
+        "chinese": "考试",
+        "pinyin": "kǎoshì",
+        "word_type": "n.",
+        "french": "examen",
+        "example": "为了准备～，他每天都学习到很晚。"
+    },
+    {
+        "chinese": "可能",
+        "pinyin": "kěnéng",
+        "word_type": "adv.",
+        "french": "peut-être",
+        "example": "我～不能去上班了。"
+    },
+    {
+        "chinese": "快乐",
+        "pinyin": "kuàilè",
+        "word_type": "adj.",
+        "french": "content,e ; joyeux,se",
+        "example": "祝你生日～！"
+    },
+    {
+        "chinese": "累",
+        "pinyin": "lèi",
+        "word_type": "adj.",
+        "french": "fatigué,e",
+        "example": "我～了，想休息。"
+    },
+    {
+        "chinese": "离",
+        "pinyin": "lí",
+        "word_type": "prép.",
+        "french": "d'un endroit à un autre ;à la distance de",
+        "example": "我家～学校很近。"
+    },
+    {
+        "chinese": "两",
+        "pinyin": "liǎng",
+        "word_type": "num.",
+        "french": "deux",
+        "example": "苹果～块钱一斤。"
+    },
+    {
+        "chinese": "路",
+        "pinyin": "lù",
+        "word_type": "n.",
+        "french": "route",
+        "example": "我每天走～去上学。"
+    },
+    {
+        "chinese": "旅游",
+        "pinyin": "lǚyóu",
+        "word_type": "v.",
+        "french": "voyager",
+        "example": "我们开车去～。"
+    },
+    {
+        "chinese": "卖",
+        "pinyin": "mài",
+        "word_type": "v.",
+        "french": "vendre",
+        "example": "这个商店～的东西比较便宜。"
+    },
+    {
+        "chinese": "慢",
+        "pinyin": "màn",
+        "word_type": "adj.",
+        "french": "lent,e",
+        "example": "我们走得很～。"
+    },
+    {
+        "chinese": "猫",
+        "pinyin": "māo",
+        "word_type": "n.",
+        "french": "chat,te",
+        "example": "你的小～去哪儿了？"
+    },
+    {
+        "chinese": "每",
+        "pinyin": "měi",
+        "word_type": "pron.",
+        "french": "chaque; chacun;",
+        "example": "你～天都看报纸吗？"
+    },
+    {
+        "chinese": "妹妹",
+        "pinyin": "mèimei",
+        "word_type": "n.",
+        "french": "sœur aînée",
+        "example": "我有两个～。"
+    },
+    {
+        "chinese": "男",
+        "pinyin": "nán",
+        "word_type": "n.",
+        "french": "homme",
+        "example": "我不认识那个～人。"
+    },
+    {
+        "chinese": "您",
+        "pinyin": "nín",
+        "word_type": "pron.",
+        "french": "vous, singulier de politesse",
+        "example": "老师，～好！"
+    },
+    {
+        "chinese": "牛奶",
+        "pinyin": "niúnǎi",
+        "word_type": "n.",
+        "french": "lait de vache",
+        "example": "睡觉前喝杯～吧。"
+    },
+    {
+        "chinese": "女",
+        "pinyin": "nǚ",
+        "word_type": "n.",
+        "french": "femme",
+        "example": "那个～人你认识吗？"
+    },
+    {
+        "chinese": "旁边",
+        "pinyin": "pángbiān",
+        "word_type": "n.",
+        "french": "à côté de",
+        "example": "爸爸在我～。"
+    },
+    {
+        "chinese": "跑步",
+        "pinyin": "pǎobù",
+        "word_type": "v.",
+        "french": "courir",
+        "example": "我每天早上都～。"
+    },
+    {
+        "chinese": "便宜",
+        "pinyin": "piányi",
+        "word_type": "adj.",
+        "french": "bon marché ; à prix réduit",
+        "example": "苹果很～，我们买点儿吧。"
+    },
+    {
+        "chinese": "票",
+        "pinyin": "piào",
+        "word_type": "n.",
+        "french": "billet ; ticket",
+        "example": "我要去火车站买车～。"
+    },
+    {
+        "chinese": "妻子",
+        "pinyin": "qīzi",
+        "word_type": "n.",
+        "french": "femme",
+        "example": "我～上班去了。"
+    },
+    {
+        "chinese": "起床",
+        "pinyin": "qǐchuáng",
+        "word_type": "v.",
+        "french": "se lever du lit",
+        "example": "我早上七点～。"
+    },
+    {
+        "chinese": "千",
+        "pinyin": "qiān",
+        "word_type": "num.",
+        "french": "mille",
+        "example": "这个手机一～元。"
+    },
+    {
+        "chinese": "铅笔",
+        "pinyin": "qiānbǐ",
+        "word_type": "n.",
+        "french": "crayon",
+        "example": "你看见我的～了吗？"
+    },
+    {
+        "chinese": "晴",
+        "pinyin": "qíng",
+        "word_type": "adj.",
+        "french": "beau, belle ; sans nuage",
+        "example": "今天是～天。"
+    },
+    {
+        "chinese": "去年",
+        "pinyin": "qùnián",
+        "word_type": "n.",
+        "french": "l’an dernier",
+        "example": "我是～8月来北京的。"
+    },
+    {
+        "chinese": "让",
+        "pinyin": "ràng",
+        "word_type": "v.",
+        "french": "他爸爸不～他来。",
+        "example": ""
+    },
+    {
+        "chinese": "日",
+        "pinyin": "rì",
+        "word_type": "n.",
+        "french": "jour",
+        "example": "今天是2012年2月26～。"
+    },
+    {
+        "chinese": "上班",
+        "pinyin": "shàngbān",
+        "word_type": "v.",
+        "french": "aller au travail",
+        "example": "我七点半去～。"
+    },
+    {
+        "chinese": "身体",
+        "pinyin": "shēntǐ",
+        "word_type": "n.",
+        "french": "santé",
+        "example": "今天我的～不太舒服。"
+    },
+    {
+        "chinese": "生病",
+        "pinyin": "shēngbìng",
+        "word_type": "v.",
+        "french": "tomber malade",
+        "example": "我～了，不能去上班了。"
+    },
+    {
+        "chinese": "生日",
+        "pinyin": "shēngrì",
+        "word_type": "n.",
+        "french": "anniversaire",
+        "example": "祝你～快乐！"
+    },
+    {
+        "chinese": "时间",
+        "pinyin": "shíjiān",
+        "word_type": "n.",
+        "french": "temps",
+        "example": "我没～去北京。"
+    },
+    {
+        "chinese": "事情",
+        "pinyin": "shìqing",
+        "word_type": "n.",
+        "french": "affaire ; chose",
+        "example": "你下午有什么～吗？"
+    },
+    {
+        "chinese": "手表",
+        "pinyin": "shǒubiǎo",
+        "word_type": "n.",
+        "french": "montre",
+        "example": "这块～非常漂亮。"
+    },
+    {
+        "chinese": "手机",
+        "pinyin": "shǒujī",
+        "word_type": "n.",
+        "french": "téléphone portable",
+        "example": "你看，我新买了一个～。"
+    },
+    {
+        "chinese": "它",
+        "pinyin": "tā",
+        "word_type": "pron.",
+        "french": "我知道小猫在哪儿，～在桌子下面。",
+        "example": ""
+    },
+    {
+        "chinese": "踢足球",
+        "pinyin": "tī",
+        "word_type": "zúqiú",
+        "french": "jouer au football",
+        "example": "我和同学们在～。"
+    },
+    {
+        "chinese": "题",
+        "pinyin": "tí",
+        "word_type": "n.",
+        "french": "dujet d’examen",
+        "example": "这个～我不会做。"
+    },
+    {
+        "chinese": "跳舞",
+        "pinyin": "tiàowǔ",
+        "word_type": "v.s.",
+        "french": "danser",
+        "example": "妹妹会唱歌，也会～。"
+    },
+    {
+        "chinese": "外",
+        "pinyin": "wài",
+        "word_type": "n.",
+        "french": "extérieur ; dehors (locatif)",
+        "example": "～面下雨了。"
+    },
+    {
+        "chinese": "完",
+        "pinyin": "wán",
+        "word_type": "v.",
+        "french": "terminer",
+        "example": "这本书我看～了。"
+    },
+    {
+        "chinese": "玩",
+        "pinyin": "wán",
+        "word_type": "v.",
+        "french": "jouer",
+        "example": "他在～，没有学习。"
+    },
+    {
+        "chinese": "晚上",
+        "pinyin": "wǎnshang",
+        "word_type": "n.",
+        "french": "soir",
+        "example": "今天～我不能看电视了。"
+    },
+    {
+        "chinese": "为什么",
+        "pinyin": "wèi",
+        "word_type": "shénme",
+        "french": "adv.",
+        "example": "pourquoi  你～不喝点儿水呢？"
+    },
+    {
+        "chinese": "问",
+        "pinyin": "wèn",
+        "word_type": "v.",
+        "french": "demander ; poser une question",
+        "example": "老师，我可以～你一个问题吗？"
+    },
+    {
+        "chinese": "问题",
+        "pinyin": "wèntí",
+        "word_type": "n.",
+        "french": "question",
+        "example": "这个～太难了！"
+    },
+    {
+        "chinese": "西瓜",
+        "pinyin": "xīguā",
+        "word_type": "n.",
+        "french": "pastèque",
+        "example": "请吃块儿～。"
+    },
+    {
+        "chinese": "小时",
+        "pinyin": "xiǎoshí",
+        "word_type": "n.",
+        "french": "heure, unité de temps",
+        "example": "我看了一～的书。"
+    },
+    {
+        "chinese": "笑",
+        "pinyin": "xiào",
+        "word_type": "v.",
+        "french": "rire",
+        "example": "听到他这么说，我们都～了。"
+    },
+    {
+        "chinese": "新",
+        "pinyin": "xīn",
+        "word_type": "adj.",
+        "french": "nouveau, nouvelle",
+        "example": "这是我买的～衣服。"
+    },
+    {
+        "chinese": "休息",
+        "pinyin": "xiūxi",
+        "word_type": "v.",
+        "french": "se reposer",
+        "example": "太累了，让我～一下。"
+    },
+    {
+        "chinese": "雪",
+        "pinyin": "xuě",
+        "word_type": "n.",
+        "french": "neige",
+        "example": "今年冬天下了几次大～。"
+    },
+    {
+        "chinese": "颜色",
+        "pinyin": "yánsè",
+        "word_type": "n.",
+        "french": "couleur",
+        "example": "你喜欢哪种～？"
+    },
+    {
+        "chinese": "眼睛",
+        "pinyin": "yǎnjing",
+        "word_type": "n.",
+        "french": "œil",
+        "example": "我的～是黑色的。"
+    },
+    {
+        "chinese": "羊肉",
+        "pinyin": "yángròu",
+        "word_type": "n.",
+        "french": "viande de mouton",
+        "example": "有些人不爱吃～。"
+    },
+    {
+        "chinese": "药",
+        "pinyin": "yào",
+        "word_type": "n.",
+        "french": "médicament",
+        "example": "这个～一天吃三次。"
+    },
+    {
+        "chinese": "也",
+        "pinyin": "yě",
+        "word_type": "adv.",
+        "french": "aussi",
+        "example": "你去，我～去。"
+    },
+    {
+        "chinese": "一下",
+        "pinyin": "yíxià",
+        "word_type": "s.v.",
+        "french": "redoublement du verbe, indique un moment",
+        "example": "请等我～。"
+    },
+    {
+        "chinese": "一起",
+        "pinyin": "yìqǐ",
+        "word_type": "adv.",
+        "french": "ensemble",
+        "example": "我和你～去北京。"
+    },
+    {
+        "chinese": "已经",
+        "pinyin": "yǐjīng",
+        "word_type": "adv.",
+        "french": "déjà",
+        "example": "我们～吃完饭了。"
+    },
+    {
+        "chinese": "意思",
+        "pinyin": "yìsi",
+        "word_type": "n.",
+        "french": "idée",
+        "example": "把你的～告诉我吧。"
+    },
+    {
+        "chinese": "阴",
+        "pinyin": "yīn",
+        "word_type": "adj.",
+        "french": "nuageux ; sombre",
+        "example": "今天是～天。"
+    },
+    {
+        "chinese": "游泳",
+        "pinyin": "yóuyǒng",
+        "word_type": "v.",
+        "french": "nager",
+        "example": "我会～了。"
+    },
+    {
+        "chinese": "右边",
+        "pinyin": "yòubian",
+        "word_type": "n.",
+        "french": "droite (locatif)",
+        "example": "王医生～那个人是谁？"
+    },
+    {
+        "chinese": "鱼",
+        "pinyin": "yú",
+        "word_type": "n.",
+        "french": "poisson",
+        "example": "水里有很多～。"
+    },
+    {
+        "chinese": "远",
+        "pinyin": "yuǎn",
+        "word_type": "adj.",
+        "french": "loin",
+        "example": "我家离公司很～。"
+    },
+    {
+        "chinese": "运动",
+        "pinyin": "yùndòng",
+        "word_type": "v.",
+        "french": "sport; exercices physiques",
+        "example": "我们都很喜欢～。"
+    },
+    {
+        "chinese": "再",
+        "pinyin": "zài",
+        "word_type": "réalisée",
+        "french": "dans le futur) ; ensuite",
+        "example": ""
+    },
+    {
+        "chinese": "早上",
+        "pinyin": "zǎoshang",
+        "word_type": "n.",
+        "french": "matin",
+        "example": "我～看见过他。"
+    },
+    {
+        "chinese": "丈夫",
+        "pinyin": "zhàngfu",
+        "word_type": "n.",
+        "french": "mari",
+        "example": "我～在医院工作。"
+    },
+    {
+        "chinese": "找",
+        "pinyin": "zhǎo",
+        "word_type": "v.",
+        "french": "chercher",
+        "example": "他想～一个工作。"
+    },
+    {
+        "chinese": "着",
+        "pinyin": "zhe",
+        "word_type": "p.s.",
+        "french": "employé pour exprimer une action en cours",
+        "example": "他笑～说：“你不认识我，但是我认识你。”"
+    },
+    {
+        "chinese": "真",
+        "pinyin": "zhēn",
+        "word_type": "adv.",
+        "french": "vraiment ; véritablement",
+        "example": "这个人～高。"
+    },
+    {
+        "chinese": "正在",
+        "pinyin": "zhèngzài",
+        "word_type": "adv.",
+        "french": "en train de",
+        "example": "弟弟～打篮球。"
+    },
+    {
+        "chinese": "知道",
+        "pinyin": "zhīdào",
+        "word_type": "v.",
+        "french": "être au courant",
+        "example": "我不～他现在在哪里。"
+    },
+    {
+        "chinese": "自行车",
+        "pinyin": "zìxíngchē",
+        "word_type": "n.",
+        "french": "vélo",
+        "example": "这是我新买的～。"
+    },
+    {
+        "chinese": "最",
+        "pinyin": "zuì",
+        "word_type": "adv.",
+        "french": "Superlatif placé devant les v.a et les adjectifs.",
+        "example": "她是我～好的朋友。"
+    },
+    {
+        "chinese": "左边",
+        "pinyin": "zuǒbian",
+        "word_type": "n.",
+        "french": "gauche (locatif)",
+        "example": "～的那个杯子是你的，右边的是我的。"
+    },
+    {
+        "chinese": "阿姨",
+        "pinyin": "āyí",
+        "word_type": "n.",
+        "french": "femme ayant un âge voisin de celui de sa",
+        "example": "～，附近有地铁站吗？"
+    },
+    {
+        "chinese": "啊",
+        "pinyin": "a",
+        "word_type": "int.",
+        "french": "你们家住在哪儿～？",
+        "example": ""
+    },
+    {
+        "chinese": "矮",
+        "pinyin": "ǎi",
+        "word_type": "adj.",
+        "french": "de petite taille; petit,e; bas,se",
+        "example": "弟弟的个子比我～。"
+    },
+    {
+        "chinese": "爱好",
+        "pinyin": "àihào",
+        "word_type": "préférer",
+        "french": "; avoir du goût pour qch ; s'intéresser",
+        "example": ""
+    },
+    {
+        "chinese": "班",
+        "pinyin": "bān",
+        "word_type": "n.",
+        "french": "classe",
+        "example": "我在三年级二～。"
+    },
+    {
+        "chinese": "搬",
+        "pinyin": "bān",
+        "word_type": "v.",
+        "french": "déménager ; déplacer ; soulever ; transporter",
+        "example": "请帮我把这张桌子～到楼下好吗？"
+    },
+    {
+        "chinese": "办法",
+        "pinyin": "bànfǎ",
+        "word_type": "n.",
+        "french": "méthode ; moyen ; façon",
+        "example": "你别急，我们再想想～。"
+    },
+    {
+        "chinese": "办公室",
+        "pinyin": "bàngōngshì",
+        "word_type": "n.",
+        "french": "bureau",
+        "example": "请问，校长～怎么走？"
+    },
+    {
+        "chinese": "半",
+        "pinyin": "bàn",
+        "word_type": "num.",
+        "french": "现在是三点～。",
+        "example": ""
+    },
+    {
+        "chinese": "帮忙",
+        "pinyin": "bāngmáng",
+        "word_type": "v.",
+        "french": "aider ; donner un coup de main (v.s. )",
+        "example": "因为有你～，这件事情处理得很好。"
+    },
+    {
+        "chinese": "包",
+        "pinyin": "bāo",
+        "word_type": "n.",
+        "french": "sac",
+        "example": "我的～忘在房间里了。"
+    },
+    {
+        "chinese": "饱",
+        "pinyin": "bǎo",
+        "word_type": "adj.",
+        "french": "assouvi,e; repu,e",
+        "example": "我已经吃～了。"
+    },
+    {
+        "chinese": "北方",
+        "pinyin": "běifāng",
+        "word_type": "n.",
+        "french": "nord",
+        "example": "冬天，～比南方冷多了。"
+    },
+    {
+        "chinese": "被",
+        "pinyin": "bèi",
+        "word_type": "prép.",
+        "french": "par",
+        "example": "词典～王老师拿走了。"
+    },
+    {
+        "chinese": "鼻子",
+        "pinyin": "bízi",
+        "word_type": "n.",
+        "french": "nez",
+        "example": "姐姐的～很高，很漂亮。"
+    },
+    {
+        "chinese": "比较",
+        "pinyin": "bǐjiào",
+        "word_type": "adv.",
+        "french": "relativement ; assez",
+        "example": "今天天气～冷。"
+    },
+    {
+        "chinese": "必须",
+        "pinyin": "bìxū",
+        "word_type": "adv.",
+        "french": "我今天～去上班。",
+        "example": ""
+    },
+    {
+        "chinese": "别人",
+        "pinyin": "biéren",
+        "word_type": "pron.",
+        "french": "autrui",
+        "example": "～都走了，为什么你还在这里？"
+    },
+    {
+        "chinese": "宾馆",
+        "pinyin": "bīnguǎn",
+        "word_type": "n.",
+        "french": "hôtel",
+        "example": "这是我们这儿最大的～，可以住300个客人。"
+    },
+    {
+        "chinese": "冰箱",
+        "pinyin": "bīngxiāng",
+        "word_type": "n.",
+        "french": "réfrigérateur",
+        "example": "妈妈把刚买的鱼放进了～。"
+    },
+    {
+        "chinese": "才",
+        "pinyin": "cái",
+        "word_type": "(employé",
+        "french": "pour indiquer que le nombre est",
+        "example": ""
+    },
+    {
+        "chinese": "菜单",
+        "pinyin": "càidān",
+        "word_type": "n.",
+        "french": "menu",
+        "example": "服务员，请帮我拿一下～。"
+    },
+    {
+        "chinese": "参加",
+        "pinyin": "cānjiā",
+        "word_type": "v.",
+        "french": "participer ; assister à",
+        "example": "这次会议有两百多人～。"
+    },
+    {
+        "chinese": "草",
+        "pinyin": "cǎo",
+        "word_type": "n.",
+        "french": "herbe",
+        "example": "春天来了，小～绿了。"
+    },
+    {
+        "chinese": "层",
+        "pinyin": "céng",
+        "word_type": "s.n.",
+        "french": "étage",
+        "example": "我住在三～，306。"
+    },
+    {
+        "chinese": "长",
+        "pinyin": "cháng",
+        "word_type": "adj.",
+        "french": "long,gue",
+        "example": "姐姐的头发又黑又～。"
+    },
+    {
+        "chinese": "超市",
+        "pinyin": "chāoshì",
+        "word_type": "n.",
+        "french": "supermarché",
+        "example": "这家～里的东西比较便宜。"
+    },
+    {
+        "chinese": "衬衫",
+        "pinyin": "chènshān",
+        "word_type": "n.",
+        "french": "chemise",
+        "example": "今天我穿这件～。"
+    },
+    {
+        "chinese": "成绩",
+        "pinyin": "chéngjì",
+        "word_type": "n.",
+        "french": "résultat d’examen",
+        "example": "我们可以在网上查到考试～。"
+    },
+    {
+        "chinese": "城市",
+        "pinyin": "chéngshì",
+        "word_type": "n.",
+        "french": "ville",
+        "example": "我已经喜欢上了这个～。"
+    },
+    {
+        "chinese": "迟到",
+        "pinyin": "chídào",
+        "word_type": "v.",
+        "french": "être en retard ; arriver en retard",
+        "example": "对不起，我今天又～了。"
+    },
+    {
+        "chinese": "出现",
+        "pinyin": "chūxiàn",
+        "word_type": "v.",
+        "french": "apparaître",
+        "example": ""
+    },
+    {
+        "chinese": "除了",
+        "pinyin": "chúle",
+        "word_type": "prép.",
+        "french": "sauf",
+        "example": "～小王，其他人都来了。"
+    },
+    {
+        "chinese": "船",
+        "pinyin": "chuán",
+        "word_type": "n.",
+        "french": "bateau",
+        "example": "你可以坐～去上海。"
+    },
+    {
+        "chinese": "春",
+        "pinyin": "chūn",
+        "word_type": "n.",
+        "french": "printemps",
+        "example": "～天是一年的开始。"
+    },
+    {
+        "chinese": "词典",
+        "pinyin": "cídiǎn",
+        "word_type": "n.",
+        "french": "dictionnaire",
+        "example": "这本～对我的学习很有帮助。"
+    },
+    {
+        "chinese": "聪明",
+        "pinyin": "cōngming",
+        "word_type": "adj.",
+        "french": "Intelligent,e",
+        "example": "弟弟不但很～，而且很爱学习。"
+    },
+    {
+        "chinese": "打扫",
+        "pinyin": "dǎsǎo",
+        "word_type": "v.",
+        "french": "nettoyer ; balayer",
+        "example": "我准备周末把房间～一下。"
+    },
+    {
+        "chinese": "带",
+        "pinyin": "dài",
+        "word_type": "v.",
+        "french": "porter sur soi",
+        "example": "我今天忘记～钱包了。"
+    },
+    {
+        "chinese": "担心",
+        "pinyin": "dānxīn",
+        "word_type": "v.",
+        "french": "s’inquiéter",
+        "example": "爷爷住院了，我很～。"
+    },
+    {
+        "chinese": "蛋糕",
+        "pinyin": "dàngāo",
+        "word_type": "n.",
+        "french": "gâteau",
+        "example": "你饿了吗？先吃块～吧。"
+    },
+    {
+        "chinese": "当然",
+        "pinyin": "dāngrán",
+        "word_type": "adv..",
+        "french": "bien sûr",
+        "example": "你生病了，我～要来看看你。"
+    },
+    {
+        "chinese": "灯",
+        "pinyin": "dēng",
+        "word_type": "n.",
+        "french": "lampe",
+        "example": "房间里的～怎么不亮了？"
+    },
+    {
+        "chinese": "地",
+        "pinyin": "de",
+        "word_type": "p.s.",
+        "french": "天慢慢～黑了。",
+        "example": ""
+    },
+    {
+        "chinese": "地方",
+        "pinyin": "dìfang",
+        "word_type": "n.",
+        "french": "endroit",
+        "example": "这个～我来过三次了。"
+    },
+    {
+        "chinese": "地铁",
+        "pinyin": "dìtiě",
+        "word_type": "n.",
+        "french": "métro",
+        "example": "我们先坐三站～，再走一会儿就到了。"
+    },
+    {
+        "chinese": "地图",
+        "pinyin": "dìtú",
+        "word_type": "n.",
+        "french": "carte",
+        "example": "我的手机上有电子～。"
+    },
+    {
+        "chinese": "电梯",
+        "pinyin": "diàntī",
+        "word_type": "n.",
+        "french": "ascenseur",
+        "example": "我们坐～上去吧。"
+    },
+    {
+        "chinese": "电子邮件",
+        "pinyin": "diànzǐyóujiàn",
+        "word_type": "n.",
+        "french": "email ; courrier électronique",
+        "example": "我晚上再给你发个～。"
+    },
+    {
+        "chinese": "东",
+        "pinyin": "dōng",
+        "word_type": "n.",
+        "french": "est",
+        "example": "你一直向～走就到了。"
+    },
+    {
+        "chinese": "冬",
+        "pinyin": "dōng",
+        "word_type": "n.",
+        "french": "hiver",
+        "example": "北方的～天很冷。"
+    },
+    {
+        "chinese": "动物园",
+        "pinyin": "dòngwùyuán",
+        "word_type": "n.",
+        "french": "zoo",
+        "example": "～里有一百多种动物。"
+    },
+    {
+        "chinese": "短",
+        "pinyin": "duǎn",
+        "word_type": "adj.",
+        "french": "court,e",
+        "example": "这件事在～时间内很难做完。"
+    },
+    {
+        "chinese": "段",
+        "pinyin": "duàn",
+        "word_type": "s.n.",
+        "french": "这～时间我很忙。",
+        "example": ""
+    },
+    {
+        "chinese": "锻炼",
+        "pinyin": "duànliàn",
+        "word_type": "v.",
+        "french": "s'entraîner; s'aguerrir; faire du sport",
+        "example": "我每天早上都去～身体。"
+    },
+    {
+        "chinese": "多么",
+        "pinyin": "duōme",
+        "word_type": "adv.",
+        "french": "comme; combien; que",
+        "example": "这里～漂亮啊！"
+    },
+    {
+        "chinese": "饿",
+        "pinyin": "è",
+        "word_type": "adj.",
+        "french": "faim (avoir faim)",
+        "example": "我～了，想吃点东西。"
+    },
+    {
+        "chinese": "耳朵",
+        "pinyin": "ěrduo",
+        "word_type": "n.",
+        "french": "oreille",
+        "example": "我的～有点疼，要去医院看看。"
+    },
+    {
+        "chinese": "发",
+        "pinyin": "fā",
+        "word_type": "v.",
+        "french": "envoyer",
+        "example": "你给我～电子邮件了吗？"
+    },
+    {
+        "chinese": "发烧",
+        "pinyin": "fāshāo",
+        "word_type": "v.",
+        "french": "fièvre (avoir de la fièvre)",
+        "example": "我身体不舒服，～了。"
+    },
+    {
+        "chinese": "发现",
+        "pinyin": "fāxiàn",
+        "word_type": "v.",
+        "french": "s'apercevoir ; découvrir",
+        "example": "我～他瘦了很多。"
+    },
+    {
+        "chinese": "方便",
+        "pinyin": "fāngbiàn",
+        "word_type": "adj.",
+        "french": "pratique ; commode",
+        "example": "我坐地铁去上班很～。"
+    },
+    {
+        "chinese": "放",
+        "pinyin": "fàng",
+        "word_type": "v.",
+        "french": "poser",
+        "example": "把书～在桌子上吧。"
+    },
+    {
+        "chinese": "放心",
+        "pinyin": "fàngxīn",
+        "word_type": "v.",
+        "french": "être rassuré",
+        "example": "请～，我会把事情办好的。"
+    },
+    {
+        "chinese": "分",
+        "pinyin": "fēn",
+        "word_type": "n.",
+        "french": "points ; note scolaire",
+        "example": "这次考试，我得了85～。"
+    },
+    {
+        "chinese": "附近",
+        "pinyin": "fùjìn",
+        "word_type": "n.",
+        "french": "alentours",
+        "example": "他家就住在公司～。"
+    },
+    {
+        "chinese": "复习",
+        "pinyin": "fùxí",
+        "word_type": "v.",
+        "french": "revoir (les leçons); réviser",
+        "example": "考试前要好好地～。"
+    },
+    {
+        "chinese": "干净",
+        "pinyin": "gānjìng",
+        "word_type": "adj.",
+        "french": "propre",
+        "example": "我把衣服洗～了。"
+    },
+    {
+        "chinese": "感冒",
+        "pinyin": "gǎnmào",
+        "word_type": "v.",
+        "french": "s'enrhumer",
+        "example": "我～了，要吃点儿药。"
+    },
+    {
+        "chinese": "感兴趣",
+        "pinyin": "gǎnxìngqù",
+        "word_type": "s’intéresser",
+        "french": "小王对音乐很～。",
+        "example": ""
+    },
+    {
+        "chinese": "刚才",
+        "pinyin": "gāngcái",
+        "word_type": "n.",
+        "french": "à l'instant ; il y a peu de temps",
+        "example": "～是谁来的电话？"
+    },
+    {
+        "chinese": "个子",
+        "pinyin": "gèzi",
+        "word_type": "n.",
+        "french": "taille",
+        "example": "哥哥比我～高。"
+    },
+    {
+        "chinese": "更",
+        "pinyin": "gèng",
+        "word_type": "adv.",
+        "french": "encore plus",
+        "example": "他比我～喜欢游泳。"
+    },
+    {
+        "chinese": "公斤",
+        "pinyin": "gōngjīn",
+        "word_type": "s.n.",
+        "french": "kilo",
+        "example": "我买了一～鸡蛋。"
+    },
+    {
+        "chinese": "公园",
+        "pinyin": "gōngyuán",
+        "word_type": "n.",
+        "french": "jardin public ; parc",
+        "example": "我家附近有个～，我常去那里散步。"
+    },
+    {
+        "chinese": "故事",
+        "pinyin": "gùshi",
+        "word_type": "n.",
+        "french": "histoire",
+        "example": "睡觉前，我都给女儿讲～。"
+    },
+    {
+        "chinese": "刮风",
+        "pinyin": "guāfēng",
+        "word_type": "avoir",
+        "french": "du vent (v.s.)",
+        "example": "今天～了，别骑自行车了。"
+    },
+    {
+        "chinese": "关",
+        "pinyin": "guān",
+        "word_type": "v.",
+        "french": "fermer ; éteindre",
+        "example": ""
+    },
+    {
+        "chinese": "关系",
+        "pinyin": "guānxì",
+        "word_type": "n.",
+        "french": "rapport ; relation",
+        "example": "这件事和她没有～。"
+    },
+    {
+        "chinese": "关于",
+        "pinyin": "guānyú",
+        "word_type": "prép.",
+        "french": "à propos de ; en ce qui concerne",
+        "example": "～这个问题，我们还要再想一想。"
+    },
+    {
+        "chinese": "国家",
+        "pinyin": "guójiā",
+        "word_type": "n.",
+        "french": "pays ; nation ; état",
+        "example": "我爱旅游，去过几十个～。"
+    },
+    {
+        "chinese": "过去",
+        "pinyin": "guòqù",
+        "word_type": "n.",
+        "french": "passé",
+        "example": "奶奶经常给我讲～的事情。"
+    },
+    {
+        "chinese": "还是",
+        "pinyin": "háishì",
+        "word_type": "adv.",
+        "french": "plutôt",
+        "example": "你～吃点儿水果吧，别喝啤酒了。"
+    },
+    {
+        "chinese": "害怕",
+        "pinyin": "hàipà",
+        "word_type": "v.",
+        "french": "avoir peur ; craindre",
+        "example": "我～一个人晚上出门。"
+    },
+    {
+        "chinese": "航班",
+        "pinyin": "hángbān",
+        "word_type": "n.",
+        "french": "vol régulier",
+        "example": "各位顾客，欢迎您乘坐我们的～。"
+    },
+    {
+        "chinese": "黑板",
+        "pinyin": "hēibǎn",
+        "word_type": "n.",
+        "french": "tableau noir",
+        "example": "请大家看～。"
+    },
+    {
+        "chinese": "后来",
+        "pinyin": "hòulái",
+        "word_type": "adv.",
+        "french": "ensuite; plus tard; après",
+        "example": "～我再也没见过他。"
+    },
+    {
+        "chinese": "护照",
+        "pinyin": "hùzhào",
+        "word_type": "n.",
+        "french": "passeport",
+        "example": "你的～办好了吗？"
+    },
+    {
+        "chinese": "花",
+        "pinyin": "huā",
+        "word_type": "v.",
+        "french": "dépenser",
+        "example": "今天我～了不少钱。"
+    },
+    {
+        "chinese": "花",
+        "pinyin": "huā",
+        "word_type": "n.",
+        "french": "fleur",
+        "example": "今天是妈妈的生日，我们送一些～给她吧。"
+    },
+    {
+        "chinese": "坏",
+        "pinyin": "huài",
+        "word_type": "adj.",
+        "french": "mauvais,e ; avarié,e",
+        "example": "面包很新鲜，没有～。"
+    },
+    {
+        "chinese": "还",
+        "pinyin": "huán",
+        "word_type": "v.",
+        "french": "rendre",
+        "example": "我把书～给图书馆了。"
+    },
+    {
+        "chinese": "环境",
+        "pinyin": "huánjìng",
+        "word_type": "n.",
+        "french": "environnement",
+        "example": "这里的～很不错，在这里住很舒服。"
+    },
+    {
+        "chinese": "黄河",
+        "pinyin": "Huánghé",
+        "word_type": "n.",
+        "french": "le Fleuve Jaune",
+        "example": "～是中国的第二大河。"
+    },
+    {
+        "chinese": "会议",
+        "pinyin": "huìyì",
+        "word_type": "n.",
+        "french": "conférence ; réunion",
+        "example": "我们下午有个～。"
+    },
+    {
+        "chinese": "或者",
+        "pinyin": "huòzhě",
+        "word_type": "conj.",
+        "french": "ou, ou bien, sans interrogation",
+        "example": "你去，～我去，都可以。"
+    },
+    {
+        "chinese": "几乎",
+        "pinyin": "jīhū",
+        "word_type": "adv.",
+        "french": "presque, au point de",
+        "example": "我感动得～要流泪了。"
+    },
+    {
+        "chinese": "机会",
+        "pinyin": "jīhuì",
+        "word_type": "n.",
+        "french": "opportunité ; chance ; occasion",
+        "example": "我希望有～参加比赛。"
+    },
+    {
+        "chinese": "极",
+        "pinyin": "jí",
+        "word_type": "adv.",
+        "french": "extrêmement",
+        "example": ""
+    },
+    {
+        "chinese": "记得",
+        "pinyin": "jìde",
+        "word_type": "v.",
+        "french": "se souvenir de",
+        "example": "我不～他住在哪儿了。"
+    },
+    {
+        "chinese": "季节",
+        "pinyin": "jìjié",
+        "word_type": "n.",
+        "french": "saison",
+        "example": "一年有四个～。"
+    },
+    {
+        "chinese": "检查",
+        "pinyin": "jiǎnchá",
+        "word_type": "v.",
+        "french": "vérifier",
+        "example": "你去医院～一下身体吧。"
+    },
+    {
+        "chinese": "简单",
+        "pinyin": "jiǎndān",
+        "word_type": "adj.",
+        "french": "simple",
+        "example": "这些题对他来说很～。"
+    },
+    {
+        "chinese": "见面",
+        "pinyin": "jiànmiàn",
+        "word_type": "v.",
+        "french": "se rencontrer",
+        "example": "上次和他～，已经是去年了。"
+    },
+    {
+        "chinese": "健康",
+        "pinyin": "jiànkāng",
+        "word_type": "adj.",
+        "french": "être en bonne santé",
+        "example": "爸爸的身体特别～。"
+    },
+    {
+        "chinese": "讲",
+        "pinyin": "jiǎng",
+        "word_type": "v.",
+        "french": "parler une langue ; expliquer ; raconter",
+        "example": "李老师的课～得很有趣。"
+    },
+    {
+        "chinese": "降落",
+        "pinyin": "jiàngluò",
+        "word_type": "v.",
+        "french": "descendre ; atterrir",
+        "example": "飞机马上就要～了。"
+    },
+    {
+        "chinese": "角",
+        "pinyin": "jiǎo",
+        "word_type": "s.n.",
+        "french": "10 centime",
+        "example": "桌子上有五～钱。"
+    },
+    {
+        "chinese": "脚",
+        "pinyin": "jiǎo",
+        "word_type": "n.",
+        "french": "pied",
+        "example": "妹妹～上穿着漂亮的红皮鞋。"
+    },
+    {
+        "chinese": "教",
+        "pinyin": "jiāo",
+        "word_type": "v.",
+        "french": "apprendre ; enseigner",
+        "example": "李老师～我们数学。"
+    },
+    {
+        "chinese": "街道",
+        "pinyin": "jiēdào",
+        "word_type": "n.",
+        "french": "rue ; route ; quartier d'habitation",
+        "example": "这条～很长，有四千多米。"
+    },
+    {
+        "chinese": "节目",
+        "pinyin": "jiémù",
+        "word_type": "n.",
+        "french": "numéro de spectacle",
+        "example": "今天我们一共演出12个～。"
+    },
+    {
+        "chinese": "节日",
+        "pinyin": "jiérì",
+        "word_type": "n.",
+        "french": "fête",
+        "example": "祝大家～快乐！"
+    },
+    {
+        "chinese": "结婚",
+        "pinyin": "jiéhūn",
+        "word_type": "v.",
+        "french": "se marier",
+        "example": "我们～10年了。"
+    },
+    {
+        "chinese": "结束",
+        "pinyin": "jiéshù",
+        "word_type": "v.",
+        "french": "terminer",
+        "example": "会议马上就要～了。"
+    },
+    {
+        "chinese": "解决",
+        "pinyin": "jiějué",
+        "word_type": "v.",
+        "french": "résoudre",
+        "example": "这个问题你打算怎么～？"
+    },
+    {
+        "chinese": "借",
+        "pinyin": "jiè",
+        "word_type": "v.",
+        "french": "emprunter",
+        "example": "我从图书馆～了三本书。"
+    },
+    {
+        "chinese": "经常",
+        "pinyin": "jīngcháng",
+        "word_type": "adv.",
+        "french": "souvent",
+        "example": "我～在学校遇到他。"
+    },
+    {
+        "chinese": "经过",
+        "pinyin": "jīngguò",
+        "word_type": "à",
+        "french": "travers ; par l'intermédiaire de ;",
+        "example": ""
+    },
+    {
+        "chinese": "经理",
+        "pinyin": "jīnglǐ",
+        "word_type": "n.",
+        "french": "directeur,trice ; manager",
+        "example": "他是我们公司的～。"
+    },
+    {
+        "chinese": "久",
+        "pinyin": "jiǔ",
+        "word_type": "adj.",
+        "french": "longtemps",
+        "example": "这个问题我想了很～才明白。"
+    },
+    {
+        "chinese": "旧",
+        "pinyin": "jiù",
+        "word_type": "adj.",
+        "french": "usé,e ; vieux, vieille ; ancien, ancienne",
+        "example": "这件衣服穿了两年，已经～了。"
+    },
+    {
+        "chinese": "句子",
+        "pinyin": "jùzi",
+        "word_type": "n.",
+        "french": "phrase",
+        "example": "请用这些词语说几个～。"
+    },
+    {
+        "chinese": "渴",
+        "pinyin": "kě",
+        "word_type": "adj.",
+        "french": "assoiffé,ée ; avoir soif",
+        "example": "我～了，想喝点儿水。"
+    },
+    {
+        "chinese": "刻",
+        "pinyin": "kè",
+        "word_type": "n.",
+        "french": "le quart de l'heure d'horloge",
+        "example": "现在是三点一～。"
+    },
+    {
+        "chinese": "客人",
+        "pinyin": "kèrén",
+        "word_type": "n.",
+        "french": "hôte ; invité,e",
+        "example": "春节的时候，家里会来很多～。"
+    },
+    {
+        "chinese": "空调",
+        "pinyin": "kōngtiáo",
+        "word_type": "n.",
+        "french": "climatisation ; climatiseur",
+        "example": "太热了，请把～打开。"
+    },
+    {
+        "chinese": "口",
+        "pinyin": "kǒu",
+        "word_type": "s.n.",
+        "french": "我们家一共三～人。",
+        "example": ""
+    },
+    {
+        "chinese": "哭",
+        "pinyin": "kū",
+        "word_type": "v.",
+        "french": "pleurer",
+        "example": "孩子又～了起来。"
+    },
+    {
+        "chinese": "裤子",
+        "pinyin": "kùzi",
+        "word_type": "n.",
+        "french": "pantalon",
+        "example": "这条～有点儿短。"
+    },
+    {
+        "chinese": "筷子",
+        "pinyin": "kuàizi",
+        "word_type": "n.",
+        "french": "baguettes",
+        "example": "我来中国1个月了，已经会用～了。"
+    },
+    {
+        "chinese": "蓝",
+        "pinyin": "lán",
+        "word_type": "adj.",
+        "french": "bleu,e",
+        "example": "这条～裙子你喜欢吗？"
+    },
+    {
+        "chinese": "老",
+        "pinyin": "lǎo",
+        "word_type": "adj.",
+        "french": "vieux, vieille ; agé,e",
+        "example": "爷爷六十岁了，但是看起来一点儿也不～。"
+    },
+    {
+        "chinese": "离开",
+        "pinyin": "líkāi",
+        "word_type": "v.",
+        "french": "quitter",
+        "example": "下个月我要～一段时间，你好好照顾自己。"
+    },
+    {
+        "chinese": "礼物",
+        "pinyin": "lǐwù",
+        "word_type": "n.",
+        "french": "cadeau",
+        "example": "过生日的时候，我收到了很多～。"
+    },
+    {
+        "chinese": "历史",
+        "pinyin": "lìshǐ",
+        "word_type": "n.",
+        "french": "histoire",
+        "example": "这个房子差不多有300年的～了。"
+    },
+    {
+        "chinese": "脸",
+        "pinyin": "liǎn",
+        "word_type": "n.",
+        "french": "visage",
+        "example": "女儿的～圆圆的，很可爱。"
+    },
+    {
+        "chinese": "辆",
+        "pinyin": "liàng",
+        "word_type": "s.n.",
+        "french": "spécificatif pour véhicules",
+        "example": "这～车，是我新买的。"
+    },
+    {
+        "chinese": "聊天",
+        "pinyin": "liáotiān",
+        "word_type": "v.s.",
+        "french": "bavarder",
+        "example": "我们经常在网上～。"
+    },
+    {
+        "chinese": "了解",
+        "pinyin": "liǎojiě",
+        "word_type": "v.",
+        "french": "bien connaître",
+        "example": "我对她～得不多。"
+    },
+    {
+        "chinese": "邻居",
+        "pinyin": "línjū",
+        "word_type": "n.",
+        "french": "voisin,e",
+        "example": "我跟～们的关系非常好。"
+    },
+    {
+        "chinese": "留学",
+        "pinyin": "liúxué",
+        "word_type": "v.",
+        "french": "étudier à l’étranger",
+        "example": "我哥哥在中国～。"
+    },
+    {
+        "chinese": "楼",
+        "pinyin": "lóu",
+        "word_type": "n.",
+        "french": "bâtiment",
+        "example": "我在你家～下等你。"
+    },
+    {
+        "chinese": "绿",
+        "pinyin": "lǜ",
+        "word_type": "adj.",
+        "french": "vert,e",
+        "example": "春天来了，树和草都～了。"
+    },
+    {
+        "chinese": "马",
+        "pinyin": "mǎ",
+        "word_type": "n.",
+        "french": "cheval",
+        "example": "我们学会骑～了。"
+    },
+    {
+        "chinese": "马上",
+        "pinyin": "mǎshàng",
+        "word_type": "adv.",
+        "french": "tout de suite",
+        "example": "我～就到学校，你再等我几分钟。"
+    },
+    {
+        "chinese": "满意",
+        "pinyin": "mǎnyì",
+        "word_type": "v.",
+        "french": "satisfaire",
+        "example": "经理对他很～。"
+    },
+    {
+        "chinese": "帽子",
+        "pinyin": "màozi",
+        "word_type": "n.",
+        "french": "chapeau",
+        "example": "这个～太小了，有大一点儿的吗？"
+    },
+    {
+        "chinese": "米",
+        "pinyin": "mǐ",
+        "word_type": "s.n.",
+        "french": "mètre",
+        "example": "这张桌子有两～长。"
+    },
+    {
+        "chinese": "面包",
+        "pinyin": "miànbāo",
+        "word_type": "n.",
+        "french": "pain",
+        "example": "～已经卖完了。"
+    },
+    {
+        "chinese": "面条",
+        "pinyin": "miàntiáo",
+        "word_type": "n.",
+        "french": "nouilles",
+        "example": "服务员，我要一碗～。"
+    },
+    {
+        "chinese": "拿",
+        "pinyin": "ná",
+        "word_type": "v.",
+        "french": "prendre; tenir; saisir",
+        "example": "你手里～的是什么？"
+    },
+    {
+        "chinese": "奶奶",
+        "pinyin": "nǎinai",
+        "word_type": "n.",
+        "french": "grand-mère (peternelle)",
+        "example": "我～住在北京。"
+    },
+    {
+        "chinese": "南",
+        "pinyin": "nán",
+        "word_type": "n.",
+        "french": "sud",
+        "example": "我家在火车站的～边。"
+    },
+    {
+        "chinese": "难",
+        "pinyin": "nán",
+        "word_type": "adj.",
+        "french": "difficile",
+        "example": "这个题很～。"
+    },
+    {
+        "chinese": "难过",
+        "pinyin": "nánguò",
+        "word_type": "v.",
+        "french": "triste ; affligé,e",
+        "example": "他要离开了，我很～。"
+    },
+    {
+        "chinese": "年级",
+        "pinyin": "niánjí",
+        "word_type": "n.",
+        "french": "classe ; année scolaire",
+        "example": "我儿子现在上三～。"
+    },
+    {
+        "chinese": "年轻",
+        "pinyin": "niánqīng",
+        "word_type": "adj.",
+        "french": "jeune",
+        "example": "妈妈50岁了，看起来还很～。"
+    },
+    {
+        "chinese": "鸟",
+        "pinyin": "niǎo",
+        "word_type": "n.",
+        "french": "oiseau",
+        "example": "树上有很多～在唱歌。"
+    },
+    {
+        "chinese": "努力",
+        "pinyin": "nǔlì",
+        "word_type": "n.",
+        "french": "学生们学习很～。",
+        "example": ""
+    },
+    {
+        "chinese": "爬山",
+        "pinyin": "páshān",
+        "word_type": "v.",
+        "french": "faire une randonnée en montagne",
+        "example": "我们决定明天去～。"
+    },
+    {
+        "chinese": "盘子",
+        "pinyin": "pánzi",
+        "word_type": "n.",
+        "french": "assiette",
+        "example": "～里有鱼，请吃吧。"
+    },
+    {
+        "chinese": "皮鞋",
+        "pinyin": "píxié",
+        "word_type": "n.",
+        "french": "souliers de cuir",
+        "example": "他穿着一双黑色的～。"
+    },
+    {
+        "chinese": "啤酒",
+        "pinyin": "píjiǔ",
+        "word_type": "n.",
+        "french": "bière",
+        "example": "爸爸爱喝～。"
+    },
+    {
+        "chinese": "普通话",
+        "pinyin": "pǔtōnghuà",
+        "word_type": "n.",
+        "french": "mandarin",
+        "example": "你的～说得很好。"
+    },
+    {
+        "chinese": "其实",
+        "pinyin": "qíshí",
+        "word_type": "adv.",
+        "french": "en effet ; en fait",
+        "example": "我～不太了解他。"
+    },
+    {
+        "chinese": "其他",
+        "pinyin": "qítā",
+        "word_type": "pron.",
+        "french": "autre",
+        "example": "只有小明在教室里，～人都回家了。"
+    },
+    {
+        "chinese": "奇怪",
+        "pinyin": "qíguài",
+        "word_type": "adj.",
+        "french": "étrange ; bizarre",
+        "example": "我觉得这个问题很～。"
+    },
+    {
+        "chinese": "骑",
+        "pinyin": "qí",
+        "word_type": "v.",
+        "french": "monter à califourchon ; à cheval ; en vélo",
+        "example": "今天我～自行车去学校。"
+    },
+    {
+        "chinese": "起飞",
+        "pinyin": "qǐfēi",
+        "word_type": "v.",
+        "french": "décoller",
+        "example": "各位乘客，飞机马上就要～了。"
+    },
+    {
+        "chinese": "秋",
+        "pinyin": "qiū",
+        "word_type": "n.",
+        "french": "automne",
+        "example": "～天最舒服，不冷也不热。"
+    },
+    {
+        "chinese": "裙子",
+        "pinyin": "qúnzi",
+        "word_type": "n.",
+        "french": "jupe",
+        "example": "姐姐穿着漂亮的～。"
+    },
+    {
+        "chinese": "然后",
+        "pinyin": "ránhòu",
+        "word_type": "conj.",
+        "french": "ensuite",
+        "example": "我要先写完作业，～再看电视。"
+    },
+    {
+        "chinese": "热情",
+        "pinyin": "rèqíng",
+        "word_type": "adj.",
+        "french": "chaleureux ; sympathique",
+        "example": "我们～地欢迎客人。"
+    },
+    {
+        "chinese": "认为",
+        "pinyin": "rènwéi",
+        "word_type": "v.",
+        "french": "estimer ; trouver",
+        "example": "你～他会来吗？"
+    },
+    {
+        "chinese": "认真",
+        "pinyin": "rènzhēn",
+        "word_type": "adj.",
+        "french": "consciencieux,se ; sérieux,se",
+        "example": "这个同学学习很～，很努力。"
+    },
+    {
+        "chinese": "容易",
+        "pinyin": "róngyì",
+        "word_type": "adj.",
+        "french": "facile",
+        "example": "这个问题很～回答。"
+    },
+    {
+        "chinese": "如果",
+        "pinyin": "rúguǒ",
+        "word_type": "conj.",
+        "french": "si",
+        "example": "～你去，我就和你一起去。"
+    },
+    {
+        "chinese": "伞",
+        "pinyin": "sǎn",
+        "word_type": "n.",
+        "french": "parapluie",
+        "example": "下雨了，别忘了带～。"
+    },
+    {
+        "chinese": "上网",
+        "pinyin": "shàngwǎng",
+        "word_type": "v.",
+        "french": "surfer sur Internet",
+        "example": "我～去看看新闻。"
+    },
+    {
+        "chinese": "生气",
+        "pinyin": "shēng",
+        "word_type": "qì",
+        "french": "v.",
+        "example": "se fâcher  请别～，是我错了，对不起。"
+    },
+    {
+        "chinese": "声音",
+        "pinyin": "shēngyīn",
+        "word_type": "n.",
+        "french": "son; voix; bruit",
+        "example": "你听，这是什么～？"
+    },
+    {
+        "chinese": "世界",
+        "pinyin": "shìjiè",
+        "word_type": "n.",
+        "french": "monde",
+        "example": "～上有很多国家。"
+    },
+    {
+        "chinese": "试",
+        "pinyin": "shì",
+        "word_type": "v.",
+        "french": "essayer",
+        "example": "我想～一下那件红色的。"
+    },
+    {
+        "chinese": "叔叔",
+        "pinyin": "shūshu",
+        "word_type": "n.",
+        "french": "oncle(frère cadet du père)",
+        "example": "～，你喜欢这本书吗？"
+    },
+    {
+        "chinese": "舒服",
+        "pinyin": "shūfu",
+        "word_type": "adj.",
+        "french": "agréable ; confortable",
+        "example": "坐在这里，真～。"
+    },
+    {
+        "chinese": "树",
+        "pinyin": "shù",
+        "word_type": "n.",
+        "french": "arbre",
+        "example": "我们学校里有很多～。"
+    },
+    {
+        "chinese": "数学",
+        "pinyin": "shùxué",
+        "word_type": "n.",
+        "french": "mathématiques",
+        "example": "我的～成绩很好。"
+    },
+    {
+        "chinese": "刷牙",
+        "pinyin": "shuāyá",
+        "word_type": "v.",
+        "french": "se brosser les dents",
+        "example": "睡觉前要～。"
+    },
+    {
+        "chinese": "双",
+        "pinyin": "shuāng",
+        "word_type": "s.n.",
+        "french": "我今天想去买～鞋。",
+        "example": ""
+    },
+    {
+        "chinese": "水平",
+        "pinyin": "shuǐpíng",
+        "word_type": "n.",
+        "french": "niveau",
+        "example": "他的汉语～很高。"
+    },
+    {
+        "chinese": "司机",
+        "pinyin": "sījī",
+        "word_type": "n.",
+        "french": "chauffeur; conducteur,trice",
+        "example": "这位～开出租车5年多了。"
+    },
+    {
+        "chinese": "太阳",
+        "pinyin": "tàiyáng",
+        "word_type": "n.",
+        "french": "soleil",
+        "example": "你看，～出来了。"
+    },
+    {
+        "chinese": "特别",
+        "pinyin": "tèbié",
+        "word_type": "adv.",
+        "french": "particulièrement; surtout",
+        "example": "我～想跟你一起去。"
+    },
+    {
+        "chinese": "疼",
+        "pinyin": "téng",
+        "word_type": "adj.",
+        "french": "avoir mal",
+        "example": "我的腿有点儿～。"
+    },
+    {
+        "chinese": "体育",
+        "pinyin": "tǐyù",
+        "word_type": "n.",
+        "french": "sport",
+        "example": "我很喜欢～运动。"
+    },
+    {
+        "chinese": "甜",
+        "pinyin": "tián",
+        "word_type": "adj.",
+        "french": "sucré,e",
+        "example": "这个西瓜真～啊！"
+    },
+    {
+        "chinese": "条",
+        "pinyin": "tiáo",
+        "word_type": "s.n.",
+        "french": "spécificatif des objets en longueur et minces",
+        "example": "这～裤子有点儿长。"
+    },
+    {
+        "chinese": "同事",
+        "pinyin": "tóngshì",
+        "word_type": "n.",
+        "french": "collègue",
+        "example": "这是我们的新～，李华。"
+    },
+    {
+        "chinese": "同意",
+        "pinyin": "tóngyì",
+        "word_type": "v.",
+        "french": "approuver ; être d'accord ; consentir",
+        "example": "我不太～他的想法。"
+    },
+    {
+        "chinese": "头发",
+        "pinyin": "tóufa",
+        "word_type": "n.",
+        "french": "cheveux",
+        "example": "妈妈的～又黑又亮。"
+    },
+    {
+        "chinese": "图书馆",
+        "pinyin": "túshūguǎn",
+        "word_type": "n.",
+        "french": "bibliothèque",
+        "example": "我从～借来了两本书。"
+    },
+    {
+        "chinese": "腿",
+        "pinyin": "tuǐ",
+        "word_type": "n.",
+        "french": "jambe",
+        "example": "你的～还疼吗？"
+    },
+    {
+        "chinese": "完成",
+        "pinyin": "wánchéng",
+        "word_type": "v.",
+        "french": "accomplir",
+        "example": "这件事，在周末前必须～。"
+    },
+    {
+        "chinese": "碗",
+        "pinyin": "wǎn",
+        "word_type": "spécificatif",
+        "french": "de contenu (qui se met dans un",
+        "example": ""
+    },
+    {
+        "chinese": "万",
+        "pinyin": "wàn",
+        "word_type": "num.",
+        "french": "dix mille",
+        "example": "我们学校有一～名学生。"
+    },
+    {
+        "chinese": "忘记",
+        "pinyin": "wàngjì",
+        "word_type": "v.",
+        "french": "oublier",
+        "example": "我～今天是他的生日了。"
+    },
+    {
+        "chinese": "为",
+        "pinyin": "wèi",
+        "word_type": "prép.",
+        "french": "pour",
+        "example": "这些菜都是～你准备的。"
+    },
+    {
+        "chinese": "为了",
+        "pinyin": "wèile",
+        "word_type": "prép.",
+        "french": "pour",
+        "example": "～身体健康，我每天都去运动。"
+    },
+    {
+        "chinese": "位",
+        "pinyin": "wèi",
+        "word_type": "s.n.",
+        "french": "spécificatif d'une personne respectable",
+        "example": "他真是一～好老师。"
+    },
+    {
+        "chinese": "文化",
+        "pinyin": "wénhuà",
+        "word_type": "n.",
+        "french": "culture ; civilisation",
+        "example": "我对中国～很感兴趣。"
+    },
+    {
+        "chinese": "西",
+        "pinyin": "xī",
+        "word_type": "n.",
+        "french": "ouest",
+        "example": "火车站在～边，你走错了。"
+    },
+    {
+        "chinese": "洗手间",
+        "pinyin": "xǐshǒujiān",
+        "word_type": "n.",
+        "french": "toilettes",
+        "example": "我去一下～。"
+    },
+    {
+        "chinese": "洗澡",
+        "pinyin": "xǐzǎo",
+        "word_type": "v.",
+        "french": "prendre une douche",
+        "example": "太热了，我先去～。"
+    },
+    {
+        "chinese": "夏",
+        "pinyin": "xià",
+        "word_type": "n.",
+        "french": "été",
+        "example": "今年～天太热了。"
+    },
+    {
+        "chinese": "先",
+        "pinyin": "xiān",
+        "word_type": "adv.",
+        "french": "d’abord",
+        "example": "你～去，我一个小时后再去。"
+    },
+    {
+        "chinese": "相信",
+        "pinyin": "xiāngxìn",
+        "word_type": "v.",
+        "french": "avoir confiance en ; croire",
+        "example": "我完全～你说的话。"
+    },
+    {
+        "chinese": "香蕉",
+        "pinyin": "xiāngjiāo",
+        "word_type": "n.",
+        "french": "banane",
+        "example": "你想吃～吗？"
+    },
+    {
+        "chinese": "向",
+        "pinyin": "xiàng",
+        "word_type": "prép.",
+        "french": "vers",
+        "example": "～东走，就可以看到那个学校了。"
+    },
+    {
+        "chinese": "校长",
+        "pinyin": "xiàozhǎng",
+        "word_type": "n.",
+        "french": "directeur d'école",
+        "example": "～已经同意了我们的计划。"
+    },
+    {
+        "chinese": "新闻",
+        "pinyin": "xīnwén",
+        "word_type": "n.",
+        "french": "information ; nouvelle",
+        "example": "我每天晚上七点都看～。"
+    },
+    {
+        "chinese": "新鲜",
+        "pinyin": "xīnxiān",
+        "word_type": "adj.",
+        "french": "frais ; fraîche",
+        "example": "这些都是～水果。"
+    },
+    {
+        "chinese": "信用卡",
+        "pinyin": "xìnyòngkǎ",
+        "word_type": "n.",
+        "french": "carte de crédit",
+        "example": "我想去银行办一张～。"
+    },
+    {
+        "chinese": "行李箱",
+        "pinyin": "xínglixiāng",
+        "word_type": "n.",
+        "french": "bagage",
+        "example": "请把～打开。"
+    },
+    {
+        "chinese": "熊猫",
+        "pinyin": "xióngmāo",
+        "word_type": "n.",
+        "french": "panda",
+        "example": "我特别喜欢到动物园去看大～。"
+    },
+    {
+        "chinese": "需要",
+        "pinyin": "xūyào",
+        "word_type": "v.",
+        "french": "avoir besoin de ; exiger ; nécessiter",
+        "example": "我们～一些帮助。"
+    },
+    {
+        "chinese": "爷爷",
+        "pinyin": "yéye",
+        "word_type": "n.",
+        "french": "grand-père peternel",
+        "example": "～，请您坐这儿吧。"
+    },
+    {
+        "chinese": "一定",
+        "pinyin": "yídìng",
+        "word_type": "adv.",
+        "french": "certainement ; absolument ; sûrement",
+        "example": "明天的会议，请大家～要参加。"
+    },
+    {
+        "chinese": "一共",
+        "pinyin": "yígòng",
+        "word_type": "adv.",
+        "french": "en tout ; au total ; totalement",
+        "example": "我们班～有20名学生。"
+    },
+    {
+        "chinese": "一样",
+        "pinyin": "yíyàng",
+        "word_type": "adj.",
+        "french": "pareil,le; semblable ; ressemblant,e",
+        "example": "他跟爸爸长得～。"
+    },
+    {
+        "chinese": "一般",
+        "pinyin": "yìbān",
+        "word_type": "adv.",
+        "french": "ordinaire ; d'ordinaire",
+        "example": "我～7点钟起床。"
+    },
+    {
+        "chinese": "一边",
+        "pinyin": "yìbiān",
+        "word_type": "adv.",
+        "french": "他喜欢～看书，～听音乐。",
+        "example": ""
+    },
+    {
+        "chinese": "一直",
+        "pinyin": "yìzhí",
+        "word_type": "adv.",
+        "french": "continuellement; sans interruption; toujours",
+        "example": "我～不明白这句话的意思。"
+    },
+    {
+        "chinese": "以前",
+        "pinyin": "yǐqián",
+        "word_type": "adv.",
+        "french": "我们看电影～，先去吃个饭吧。",
+        "example": ""
+    },
+    {
+        "chinese": "音乐",
+        "pinyin": "yīnyuè",
+        "word_type": "n.",
+        "french": "musique",
+        "example": "她最喜欢看～节目。"
+    },
+    {
+        "chinese": "银行",
+        "pinyin": "yínháng",
+        "word_type": "n.",
+        "french": "banque",
+        "example": "～下午5点关门。"
+    },
+    {
+        "chinese": "饮料",
+        "pinyin": "yǐnliào",
+        "word_type": "n.",
+        "french": "boisson",
+        "example": "冰箱里还有～吗？"
+    },
+    {
+        "chinese": "应该",
+        "pinyin": "yīnggāi",
+        "word_type": "v.",
+        "french": "devoir",
+        "example": "8点了，～去上班了。"
+    },
+    {
+        "chinese": "用",
+        "pinyin": "yòng",
+        "word_type": "v.",
+        "french": "utiliser ; falloir",
+        "example": "我～了两个小时打扫房间。"
+    },
+    {
+        "chinese": "游戏",
+        "pinyin": "yóuxì",
+        "word_type": "n.",
+        "french": "jeu",
+        "example": "这是孩子们最喜欢玩儿的～。"
+    },
+    {
+        "chinese": "有名",
+        "pinyin": "yǒumíng",
+        "word_type": "adj.",
+        "french": "célèbre; connu,e; fameux,se",
+        "example": "这本书很～。"
+    },
+    {
+        "chinese": "又",
+        "pinyin": "yòu",
+        "word_type": "adv.",
+        "french": "我们休息了一会儿，～开始工作了。",
+        "example": ""
+    },
+    {
+        "chinese": "遇到",
+        "pinyin": "yùdào",
+        "word_type": "v.",
+        "french": "rencontrer",
+        "example": "刚才我在街上～了张先生。"
+    },
+    {
+        "chinese": "元",
+        "pinyin": "yuán",
+        "word_type": "s.n.",
+        "french": "yuan (monnaie chinoise)",
+        "example": "这块手表600～。"
+    },
+    {
+        "chinese": "愿意",
+        "pinyin": "yuànyì",
+        "word_type": "v.a.",
+        "french": "bien vouloir",
+        "example": "他很～帮助别人。"
+    },
+    {
+        "chinese": "月亮",
+        "pinyin": "yuèliang",
+        "word_type": "n.",
+        "french": "lune",
+        "example": "今晚的～真圆！"
+    },
+    {
+        "chinese": "越",
+        "pinyin": "yuè",
+        "word_type": "adv.",
+        "french": "(suivi d'un verbe ou d'un adj)......(pour",
+        "example": "他～说～高兴。"
+    },
+    {
+        "chinese": "张",
+        "pinyin": "zhāng",
+        "word_type": "papiers,",
+        "french": "lits, tables,etc.",
+        "example": ""
+    },
+    {
+        "chinese": "照顾",
+        "pinyin": "zhàogù",
+        "word_type": "v.",
+        "french": "s’occuper de ; veiller sur",
+        "example": "我生病了，妈妈一直～我。"
+    },
+    {
+        "chinese": "照片",
+        "pinyin": "zhàopiàn",
+        "word_type": "n.",
+        "french": "photo",
+        "example": "这是我小时候的～。"
+    },
+    {
+        "chinese": "照相机",
+        "pinyin": "zhàoxiàngjī",
+        "word_type": "n.",
+        "french": "appareil photo",
+        "example": "我新买了一个～。"
+    },
+    {
+        "chinese": "只",
+        "pinyin": "zhǐ",
+        "word_type": "adv.",
+        "french": "seulement",
+        "example": "房间里～有我一个人。"
+    },
+    {
+        "chinese": "中间",
+        "pinyin": "zhōngjiān",
+        "word_type": "n.",
+        "french": "milieu ; centre",
+        "example": "我站在～，旁边的是我的同学。"
+    },
+    {
+        "chinese": "中文",
+        "pinyin": "Zhōngwén",
+        "word_type": "n.",
+        "french": "langue chinoise",
+        "example": "我会用～写文章。"
+    },
+    {
+        "chinese": "终于",
+        "pinyin": "zhōngyú",
+        "word_type": "adv.",
+        "french": "finalement ; enfin",
+        "example": "春天～来了。"
+    },
+    {
+        "chinese": "种",
+        "pinyin": "zhǒng",
+        "word_type": "s.n.",
+        "french": "sorte ; catégorie",
+        "example": "超市里有很多～新鲜水果。"
+    },
+    {
+        "chinese": "重要",
+        "pinyin": "zhòngyào",
+        "word_type": "adj.",
+        "french": "important,e",
+        "example": "我忘了一件～的事情。"
+    },
+    {
+        "chinese": "周末",
+        "pinyin": "zhōumò",
+        "word_type": "n.",
+        "french": "week-end",
+        "example": "这个～你有什么安排？"
+    },
+    {
+        "chinese": "主要",
+        "pinyin": "zhǔyào",
+        "word_type": "adj.",
+        "french": "principal,e",
+        "example": "这本书～讲了些什么？"
+    },
+    {
+        "chinese": "注意",
+        "pinyin": "zhùyì",
+        "word_type": "v.",
+        "french": "faire attention à ; prendre garde à",
+        "example": "请～安全。"
+    },
+    {
+        "chinese": "着急",
+        "pinyin": "zháojí",
+        "word_type": "v.",
+        "french": "遇到事情，不要～。",
+        "example": ""
+    },
+    {
+        "chinese": "自己",
+        "pinyin": "zìjǐ",
+        "word_type": "pron.",
+        "french": "soi ; soi-même",
+        "example": "我喜欢～一个人旅游。"
+    },
+    {
+        "chinese": "总是",
+        "pinyin": "zǒngshì",
+        "word_type": "adv.",
+        "french": "souvent ; toujours",
+        "example": "他～很早起床。"
+    },
+    {
+        "chinese": "嘴",
+        "pinyin": "zuǐ",
+        "word_type": "n.",
+        "french": "bouche",
+        "example": "妹妹的～边有一粒米。"
+    },
+    {
+        "chinese": "最近",
+        "pinyin": "zuìjìn",
+        "word_type": "adv.",
+        "french": "récemment",
+        "example": "我～很忙。"
+    },
+    {
+        "chinese": "作业",
+        "pinyin": "zuòyè",
+        "word_type": "n.",
+        "french": "devoir scolaire",
+        "example": "今天的～你写完了吗？"
+    },
+    {
+        "chinese": "作用",
+        "pinyin": "zuòyòng",
+        "word_type": "n.",
+        "french": "effet ; fonction ; rôle",
+        "example": "这种感冒药对我没什么～。"
+    }
+]
