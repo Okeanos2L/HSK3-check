@@ -1,1 +1,185 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HSK三级词汇复习</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            max-width: 90%;
+        }
+        .buttons {
+            margin-top: 20px;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            background-color: #4CAF50;
+            color: white;
+        }
+        button:disabled {
+            background-color: #cccccc;
+            cursor: not-allowed;
+        }
+        #word-display {
+            font-size: 24px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+        #word-info {
+            display: none;
+            margin-top: 20px;
+            text-align: left;
+            border-top: 1px solid #ddd;
+            padding-top: 10px;
+        }
+        /* 响应式设计 */
+        @media (max-width: 600px) {
+            body {
+                padding: 10px;
+            }
+            button {
+                width: 100%;
+                margin: 5px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>HSK三级词汇复习</h1>
+        <div id="word-display">点击“开始随机抽查”以显示词汇</div>
+        <div class="buttons">
+            <button id="start-btn">开始随机抽查 - Start Random</button>
+            <button id="pause-btn" disabled>暂停 - Pause</button>
+            <button id="check-btn" disabled>查看词汇意思 - Check</button>
+            <button id="add-wrong-btn" disabled>添加到错题本</button>
+            <button id="view-wrong-btn">查看错题本</button>
+        </div>
+        <div id="word-info">
+            <p><strong>拼音:</strong> <span id="word-pinyin"></span></p>
+            <p><strong>词类:</strong> <span id="word-type"></span></p>
+            <p><strong>法语翻译:</strong> <span id="word-french"></span></p>
+            <p><strong>例句:</strong> <span id="word-example"></span></p>
+        </div>
+    </div>
 
+    <script>
+        let words = [];
+        let currentIndex = 0;
+        let intervalId = null;
+        let wrongWords = JSON.parse(localStorage.getItem("wrongWords")) || [];
+
+        const wordDisplay = document.getElementById('word-display');
+        const startBtn = document.getElementById('start-btn');
+        const pauseBtn = document.getElementById('pause-btn');
+        const checkBtn = document.getElementById('check-btn');
+        const addWrongBtn = document.getElementById('add-wrong-btn');
+        const viewWrongBtn = document.getElementById('view-wrong-btn');
+        const wordInfo = document.getElementById('word-info');
+        const wordPinyin = document.getElementById('word-pinyin');
+        const wordType = document.getElementById('word-type');
+        const wordFrench = document.getElementById('word-french');
+        const wordExample = document.getElementById('word-example');
+
+        // 使用 GitHub Raw URL 加载 JSON 数据
+        fetch('https://raw.githubusercontent.com/Okeanos2L/hsk3-check/main/hsk3_full.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error("网络错误，无法加载 JSON");
+                }
+                return response.json();
+            })
+            .then(data => {
+                words = data;
+                console.log("词汇数据加载成功:", words);
+            })
+            .catch(error => console.error('加载词汇数据失败:', error));
+
+        startBtn.addEventListener('click', () => {
+            if (words.length === 0) {
+                alert("词汇数据未加载，请稍候重试！");
+                return;
+            }
+            startBtn.disabled = true;
+            pauseBtn.disabled = false;
+            checkBtn.disabled = false;
+            addWrongBtn.disabled = true;
+            wordInfo.style.display = "none";
+            intervalId = setInterval(() => {
+                currentIndex = Math.floor(Math.random() * words.length);
+                wordDisplay.textContent = words[currentIndex].chinese;
+            }, 100);
+        });
+
+        pauseBtn.addEventListener('click', () => {
+            clearInterval(intervalId);
+            startBtn.disabled = false;
+            pauseBtn.disabled = true;
+            checkBtn.disabled = false;
+            addWrongBtn.disabled = false;
+        });
+
+        checkBtn.addEventListener('click', () => {
+            const word = words[currentIndex];
+            if (!word) {
+                alert("无法获取词汇信息，请重试！");
+                return;
+            }
+            wordPinyin.textContent = word.pinyin || "无";
+            wordType.textContent = word.word_type || "无";
+            wordFrench.textContent = word.french || "无";
+            wordExample.textContent = word.example || "无";
+            wordInfo.style.display = "block";
+        });
+
+        addWrongBtn.addEventListener('click', () => {
+            const word = words[currentIndex];
+            if (!word) {
+                alert("无法添加词汇，请重试！");
+                return;
+            }
+
+            // 避免重复添加相同的错词
+            if (!wrongWords.some(w => w.chinese === word.chinese)) {
+                wrongWords.push(word);
+                localStorage.setItem("wrongWords", JSON.stringify(wrongWords));
+                alert(`"${word.chinese}" 已添加到错题本！`);
+            } else {
+                alert(`"${word.chinese}" 已经在错题本中了！`);
+            }
+        });
+
+        viewWrongBtn.addEventListener('click', () => {
+            if (wrongWords.length === 0) {
+                alert("错题本为空！");
+                return;
+            }
+
+            let wrongList = wrongWords.map(w => 
+                `汉字: ${w.chinese}\n拼音: ${w.pinyin}\n词类: ${w.word_type}\n法语翻译: ${w.french}\n例句: ${w.example}`
+            ).join("\n\n");
+
+            alert("📚 错题本:\n\n" + wrongList);
+        });
+    </script>
+</body>
+</html>
